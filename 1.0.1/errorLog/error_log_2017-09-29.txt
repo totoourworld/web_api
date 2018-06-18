@@ -1,0 +1,22 @@
+
+--------------------------2017-09-29 03:15:28-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"124"}\nresponse_data : null\ntimestamp : 2017-09-29 03:15:28
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 03:15:28-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"124"}\nresponse_data : null\ntimestamp : 2017-09-29 03:15:28
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 05:40:45-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"test@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-09-29 05:40:45
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 05:40:49-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"test@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-09-29 05:40:49
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 05:41:00-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"test@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-09-29 05:41:00
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 05:41:14-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"test@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-09-29 05:41:14
+--------------------------END--------------------------------------------
+--------------------------2017-09-29 05:50:28-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_is_available":"0","driver_id":"18"}\nresponse_data : null\ntimestamp : 2017-09-29 05:50:28
+--------------------------END--------------------------------------------

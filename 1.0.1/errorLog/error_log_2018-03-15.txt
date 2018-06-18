@@ -1,0 +1,13 @@
+
+--------------------------2018-03-15 13:24:51-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"snydersshaheed@gmail.com","u_password":"yazeedsnyders"}\nresponse_data : null\ntimestamp : 2018-03-15 13:24:51
+--------------------------END--------------------------------------------
+--------------------------2018-03-15 20:38:52-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"totoourwold@gmail.com","d_password":"kkkkk"}\nresponse_data : null\ntimestamp : 2018-03-15 20:38:52
+--------------------------END--------------------------------------------
+--------------------------2018-03-15 20:39:12-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"totoourworld@gmail.com","d_password":"kkkkk"}\nresponse_data : null\ntimestamp : 2018-03-15 20:39:12
+--------------------------END--------------------------------------------
+--------------------------2018-03-15 20:40:49-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkk"}\nresponse_data : null\ntimestamp : 2018-03-15 20:40:49
+--------------------------END--------------------------------------------

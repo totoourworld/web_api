@@ -1,0 +1,31 @@
+
+--------------------------2018-03-30 06:15:05-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"idmcsamuel@gmail.com","d_password":"jemuel5891"}\nresponse_data : null\ntimestamp : 2018-03-30 06:15:05
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 06:15:18-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"idmcsamuel@gmail.com","d_password":"jemuel5891"}\nresponse_data : null\ntimestamp : 2018-03-30 06:15:18
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 06:16:43-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_device_token":"a4b5700d4be6a5b5710e9d35e88aea792e89c492212188547227189d1f7f1ee0","d_device_type":"ios","d_email":"idmcsamuel@Gmail.com","d_fname":"Idara","d_lname":"Mcsamuel","d_password":"jemuel","d_phone":"+27723423457"}\nresponse_data : null\ntimestamp : 2018-03-30 06:16:43
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 06:16:47-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_device_token":"a4b5700d4be6a5b5710e9d35e88aea792e89c492212188547227189d1f7f1ee0","d_device_type":"ios","d_email":"idmcsamuel@Gmail.com","d_fname":"Idara","d_lname":"Mcsamuel","d_password":"jemuel","d_phone":"+27723423457"}\nresponse_data : null\ntimestamp : 2018-03-30 06:16:47
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:55:05-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"jemuel5891#"}\nresponse_data : null\ntimestamp : 2018-03-30 15:55:05
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:55:22-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"Jemuel5891"}\nresponse_data : null\ntimestamp : 2018-03-30 15:55:22
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:55:50-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"jemuel5891#1"}\nresponse_data : null\ntimestamp : 2018-03-30 15:55:50
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:56:03-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"jemuel5891#"}\nresponse_data : null\ntimestamp : 2018-03-30 15:56:03
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:56:37-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"jemuel"}\nresponse_data : null\ntimestamp : 2018-03-30 15:56:37
+--------------------------END--------------------------------------------
+--------------------------2018-03-30 15:56:49-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_email":"idarasam@yahoo.com","d_password":"jemuel5891#"}\nresponse_data : null\ntimestamp : 2018-03-30 15:56:49
+--------------------------END--------------------------------------------

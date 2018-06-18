@@ -1,0 +1,10 @@
+
+--------------------------2018-01-23 02:23:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"21571f1e88449bffbe6024f316465ad2","d_is_available":"1","driver_id":"2"}\nresponse_data : null\ntimestamp : 2018-01-23 02:23:21
+--------------------------END--------------------------------------------
+--------------------------2018-01-23 02:25:18-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"21571f1e88449bffbe6024f316465ad2","d_is_available":"1","driver_id":"2"}\nresponse_data : null\ntimestamp : 2018-01-23 02:25:18
+--------------------------END--------------------------------------------
+--------------------------2018-01-23 10:16:53-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"21571f1e88449bffbe6024f316465ad2","d_is_available":"1","driver_id":"2"}\nresponse_data : null\ntimestamp : 2018-01-23 10:16:53
+--------------------------END--------------------------------------------

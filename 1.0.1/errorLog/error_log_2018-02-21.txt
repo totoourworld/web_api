@@ -1,0 +1,19 @@
+
+--------------------------2018-02-21 04:48:46-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-02-21 04:48:46
+--------------------------END--------------------------------------------
+--------------------------2018-02-21 05:02:03-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"ndohndo@gmail.com","u_password":"fintan12"}\nresponse_data : null\ntimestamp : 2018-02-21 05:02:03
+--------------------------END--------------------------------------------
+--------------------------2018-02-21 09:44:33-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-02-21 09:44:33
+--------------------------END--------------------------------------------
+--------------------------2018-02-21 09:45:43-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-02-21 09:45:43
+--------------------------END--------------------------------------------
+--------------------------2018-02-21 09:46:49-------------------------------
+400-please enter your email\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fzMpLoVxSrE:APA91bGfyqwuJrfvc94DTpF5SsZIvuZ6yEUeMnpTe0pBkRNp6fNCXbXnVTADUx8gu83p2Spv3qiyKaCuNPF0rQ0Z6Hg_BDmqwceVbrZRQJVYkXJd3hY_szmvSnmQpv_WB051E5zzbjpY","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-21 09:46:49
+--------------------------END--------------------------------------------
+--------------------------2018-02-21 09:47:47-------------------------------
+400-please enter your email\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fzMpLoVxSrE:APA91bGfyqwuJrfvc94DTpF5SsZIvuZ6yEUeMnpTe0pBkRNp6fNCXbXnVTADUx8gu83p2Spv3qiyKaCuNPF0rQ0Z6Hg_BDmqwceVbrZRQJVYkXJd3hY_szmvSnmQpv_WB051E5zzbjpY","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-21 09:47:47
+--------------------------END--------------------------------------------

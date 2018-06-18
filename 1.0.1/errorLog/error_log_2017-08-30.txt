@@ -1,0 +1,28 @@
+
+--------------------------2017-08-30 07:40:48-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"0ad222cd3371687a96497e9c564e9402","d_device_token":"72eb795bf57eea2e2e798c43e7525a604c0d9803b2617d233b53e36719f3c9a0","d_device_type":"ios","d_email":"misti@gmail.com","d_fname":"Misti","d_lname":"Elec","d_password":"test123","d_phone":"9015660038"}\nresponse_data : null\ntimestamp : 2017-08-30 07:40:48
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 07:40:59-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"0ad222cd3371687a96497e9c564e9402","d_device_token":"72eb795bf57eea2e2e798c43e7525a604c0d9803b2617d233b53e36719f3c9a0","d_device_type":"ios","d_email":"misti@gmail.com","d_fname":"Misti","d_lname":"Elec","d_password":"test123","d_phone":"9015660038"}\nresponse_data : null\ntimestamp : 2017-08-30 07:40:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 07:43:00-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"68c8c8ca2a5abc4093dd54a2d3f097b6","d_device_token":"72eb795bf57eea2e2e798c43e7525a604c0d9803b2617d233b53e36719f3c9a0","d_device_type":"ios","d_email":"mist@gmail.com","d_fname":"Mist","d_lname":"Elec","d_password":"test123","d_phone":"9015660020"}\nresponse_data : null\ntimestamp : 2017-08-30 07:43:00
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 10:47:01-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"1507119652716055"}\nresponse_data : null\ntimestamp : 2017-08-30 10:47:01
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 10:48:47-------------------------------
+400-Your account has been deactivated. Please contact your customer support.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"api_key":"d1a919d97bb8d75e80a39a0436ba987c","u_fbid":"1507119652716055"}\nresponse_data : null\ntimestamp : 2017-08-30 10:48:47
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 10:49:03-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"api_key":"d1a919d97bb8d75e80a39a0436ba987c","u_device_token":"bcbaebc2e127d5e55e2953983d9cb7f936079301a4e74408a77d1af5d371f25b","u_device_type":"ios","u_email":"abhigill9444.agca@gmail.com","u_fbid":"1507119652716055","u_fname":"Abhi","u_lname":"Gill","u_password":"test","u_phone":"9669757777"}\nresponse_data : null\ntimestamp : 2017-08-30 10:49:03
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 11:31:25-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"81f43f2e2e72cbbdc58ee7db8e46dbac","car_make":"Fillmore","car_model":"2017","car_name":"Fillmore","car_reg_no":"gjfjf","category_id":"3","driver_id":"53"}\nresponse_data : null\ntimestamp : 2017-08-30 11:31:25
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 13:50:49-------------------------------
+400-Too late! That phone number is being used\nuser_id : \napi_name : userapi/updateuserprofile\nclass_name : UserAPI\naction_name : postUpdateUserProfile\nrequested_data : {"api_key":"868ace64f6e0a983808b9a2181bc88c5","is_send_email":"1","u_fname":"pawan","u_lname":"","user_id":"33","u_phone":"","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-30 13:50:49
+--------------------------END--------------------------------------------
+--------------------------2017-08-30 13:50:56-------------------------------
+400-Too late! That phone number is being used\nuser_id : \napi_name : userapi/updateuserprofile\nclass_name : UserAPI\naction_name : postUpdateUserProfile\nrequested_data : {"api_key":"868ace64f6e0a983808b9a2181bc88c5","is_send_email":"1","u_fname":"pawan","u_lname":"","user_id":"33","u_phone":"","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-30 13:50:56
+--------------------------END--------------------------------------------

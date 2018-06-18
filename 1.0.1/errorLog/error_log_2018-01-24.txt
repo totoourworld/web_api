@@ -1,0 +1,22 @@
+
+--------------------------2018-01-24 09:51:04-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2018-01-24 09:51:04
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 09:52:33-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"205c87dbc0e1ab198dba74f8b367033288736e7fffd77687304f19c3a7f3647e","u_device_type":"ios","u_email":"super2lao@gmail.com","u_fname":"Long","u_lname":"Redo","u_password":"kkkkkk","u_phone":"+8562095000238"}\nresponse_data : null\ntimestamp : 2018-01-24 09:52:33
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 13:45:41-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2018-01-24 13:45:41
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 13:58:27-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"205c87dbc0e1ab198dba74f8b367033288736e7fffd77687304f19c3a7f3647e","u_device_type":"ios","u_email":"dd@g.com","u_fname":"See","u_lname":"Cd","u_password":"kkkkkk","u_phone":"+84543543464"}\nresponse_data : null\ntimestamp : 2018-01-24 13:58:27
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 14:16:13-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2018-01-24 14:16:13
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 14:16:44-------------------------------
+401-\nuser_id : \napi_name : driverapi/getnearbydriverlists\nclass_name : DriverAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2018-01-24 14:16:44
+--------------------------END--------------------------------------------
+--------------------------2018-01-24 14:31:35-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"95b55847de85a4f68bd29a9748696a5f1cd63f04d743f8a0faf335de28bba409","u_device_type":"ios","u_email":"super2lao@gmail.com","u_fname":"Minion","u_lname":"Stewart","u_password":"kkkkkk","u_phone":"+85633355556"}\nresponse_data : null\ntimestamp : 2018-01-24 14:31:35
+--------------------------END--------------------------------------------

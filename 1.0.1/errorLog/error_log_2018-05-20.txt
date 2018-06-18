@@ -1,0 +1,16 @@
+
+--------------------------2018-05-20 11:38:59-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"","u_phone":"","u_email":"dashrathchavda2011@gmail.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-05-20 11:38:59
+--------------------------END--------------------------------------------
+--------------------------2018-05-20 12:39:01-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-20 12:39:01
+--------------------------END--------------------------------------------
+--------------------------2018-05-20 12:46:13-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jehovah@7.163"}\nresponse_data : null\ntimestamp : 2018-05-20 12:46:13
+--------------------------END--------------------------------------------
+--------------------------2018-05-20 12:46:54-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-20 12:46:54
+--------------------------END--------------------------------------------
+--------------------------2018-05-20 12:47:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jehovah@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-20 12:47:20
+--------------------------END--------------------------------------------

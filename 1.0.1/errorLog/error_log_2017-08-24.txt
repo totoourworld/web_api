@@ -1,0 +1,55 @@
+
+--------------------------2017-08-24 04:52:15-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"c148f2a45835810488ac770c2c88ec1f","driver_id":"25","d_is_available":"1","d_device_token":"ecr_tnrWnLE:APA91bEb9RC76SprxavkhG3AhhfC_Q5nTpJPbZdDW_gH5i70IdVo5rKvytiMAargh3AlGz3NENDaLoVw8EZ7uva0iJLsP0-U769OPLC8askC7ntMY8mttzKzMUzUWWhVYmg6POpEwKkq"}\nresponse_data : null\ntimestamp : 2017-08-24 04:52:15
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 04:53:48-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"c148f2a45835810488ac770c2c88ec1f","driver_id":"25","d_is_available":"1","d_device_token":"ecr_tnrWnLE:APA91bEb9RC76SprxavkhG3AhhfC_Q5nTpJPbZdDW_gH5i70IdVo5rKvytiMAargh3AlGz3NENDaLoVw8EZ7uva0iJLsP0-U769OPLC8askC7ntMY8mttzKzMUzUWWhVYmg6POpEwKkq"}\nresponse_data : null\ntimestamp : 2017-08-24 04:53:48
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:19:58-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"c148f2a45835810488ac770c2c88ec1f","driver_id":"25","d_is_available":"1","d_device_token":"ecr_tnrWnLE:APA91bEb9RC76SprxavkhG3AhhfC_Q5nTpJPbZdDW_gH5i70IdVo5rKvytiMAargh3AlGz3NENDaLoVw8EZ7uva0iJLsP0-U769OPLC8askC7ntMY8mttzKzMUzUWWhVYmg6POpEwKkq"}\nresponse_data : null\ntimestamp : 2017-08-24 05:19:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:21:57-------------------------------
+400-Too late! Trip assign to another driver\nuser_id : \napi_name : tripapi/tripaccept\nclass_name : TripAPI\naction_name : postTripAccept\nrequested_data : {"trip_id":"188","trip_status":"accept","api_key":"c148f2a45835810488ac770c2c88ec1f","driver_id":"25"}\nresponse_data : null\ntimestamp : 2017-08-24 05:21:57
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:21:59-------------------------------
+400-Too late! Trip assign to another driver\nuser_id : \napi_name : tripapi/tripaccept\nclass_name : TripAPI\naction_name : postTripAccept\nrequested_data : {"trip_id":"188","trip_status":"accept","api_key":"c148f2a45835810488ac770c2c88ec1f","driver_id":"25"}\nresponse_data : null\ntimestamp : 2017-08-24 05:21:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:31:14-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"mick@gmail.com","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-08-24 05:31:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:31:52-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"mini@gmail.com","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-08-24 05:31:52
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:32:01-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"mini@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-24 05:32:01
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:34:47-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"vim@gmail.com","u_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-24 05:34:47
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:35:01-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"vim@gmail.com","u_password":"test1"}\nresponse_data : null\ntimestamp : 2017-08-24 05:35:01
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:35:15-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"vim@gmail.com","u_password":"test123"}\nresponse_data : null\ntimestamp : 2017-08-24 05:35:15
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 05:35:27-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"vim@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-24 05:35:27
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 09:35:15-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"1118861771525311"}\nresponse_data : null\ntimestamp : 2017-08-24 09:35:15
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 10:02:30-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_pay_date":"2017\/08\/","trip_pay_mode":"Cash","trip_id":"503","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-24 10:02:30
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 10:13:39-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_pay_date":"2017\/08\/","trip_pay_mode":"Cash","trip_id":"503","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-24 10:13:39
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 10:43:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"test","u_email":"test@gmail.com"}\nresponse_data : null\ntimestamp : 2017-08-24 10:43:42
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 14:15:58-------------------------------
+400-Too late! Trip assign to another driver\nuser_id : \napi_name : tripapi/tripaccept\nclass_name : TripAPI\naction_name : postTripAccept\nrequested_data : {"trip_id":"209","driver_id":"17","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","trip_status":"accept"}\nresponse_data : null\ntimestamp : 2017-08-24 14:15:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-24 14:16:06-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"driver_id":"17","d_degree":"176.555","d_device_token":"d22ZUvC8oZE:APA91bELVSQCd2F_0Rsby1Nvg2G8QJjjSyUKel_VqkM6cKx-HJSDgkfkcYONiI6pseIwMbd_VHDiYkQbYeu6QeAcT9mtJPppRXLQy3y9Rd1PHuijSoSqCODsbbaFfqpcv0yZFXuYttIr","d_device_type":"Android","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","d_is_available":"1"}\nresponse_data : null\ntimestamp : 2017-08-24 14:16:06
+--------------------------END--------------------------------------------

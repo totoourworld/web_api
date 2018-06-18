@@ -1,0 +1,70 @@
+
+--------------------------2018-06-17 18:06:06-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:06:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:06:30-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@rambler.ru","d_password":"nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:06:30
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:06:54-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"Nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:06:54
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:07:19-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"shmidt80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:07:19
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:07:41-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"shmidt80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:07:41
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:08:57-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"17071980"}\nresponse_data : null\ntimestamp : 2018-06-17 18:08:57
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:09:21-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"Shmidt80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:09:21
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:09:44-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"Nursh@t80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:09:44
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:10:06-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"nursh@t80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:10:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:10:44-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"mahmudamira20092010"}\nresponse_data : null\ntimestamp : 2018-06-17 18:10:44
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:10:58-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"nurshat2002@yandex.ru","d_password":"Mahmud2009"}\nresponse_data : null\ntimestamp : 2018-06-17 18:10:58
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:11:59-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@yandex.ru","u_password":"nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:11:59
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:12:28-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@yandex.ru","u_password":"Nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:12:28
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:12:41-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@yandex.ru","u_password":"Nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:12:41
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:13:21-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@yandex.ru","u_password":"Nursh@t80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:13:21
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:14:10-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"Nursh@t80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:14:10
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:14:19-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:14:19
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:14:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"Nurshat80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:14:46
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:14:58-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"Nursh@t80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:14:58
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:15:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"shmidt80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:15:20
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:15:32-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"nurshat2002@rambler.ru","u_password":"Shmidt80"}\nresponse_data : null\ntimestamp : 2018-06-17 18:15:32
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:16:06-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"nurshat2002@yandex.ru"}\nresponse_data : null\ntimestamp : 2018-06-17 18:16:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-17 18:16:16-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"nurshat2002@yandex.ru"}\nresponse_data : null\ntimestamp : 2018-06-17 18:16:16
+--------------------------END--------------------------------------------

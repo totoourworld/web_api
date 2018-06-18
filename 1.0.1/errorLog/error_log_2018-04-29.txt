@@ -1,0 +1,19 @@
+
+--------------------------2018-04-29 19:25:04-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"randyrichter38@gmail.com","u_password":"Dragonfire43"}\nresponse_data : null\ntimestamp : 2018-04-29 19:25:04
+--------------------------END--------------------------------------------
+--------------------------2018-04-29 21:38:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pgodzi@yahoo.com","u_password":"kandimire"}\nresponse_data : null\ntimestamp : 2018-04-29 21:38:05
+--------------------------END--------------------------------------------
+--------------------------2018-04-29 21:38:15-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pgodzi@yahoo.com","u_password":"mavhunga"}\nresponse_data : null\ntimestamp : 2018-04-29 21:38:15
+--------------------------END--------------------------------------------
+--------------------------2018-04-29 21:38:27-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pgodzi@yahoo.com","u_password":"kandimire9"}\nresponse_data : null\ntimestamp : 2018-04-29 21:38:27
+--------------------------END--------------------------------------------
+--------------------------2018-04-29 22:52:14-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-04-29 22:52:14
+--------------------------END--------------------------------------------
+--------------------------2018-04-29 22:52:46-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fCk6MmCGfrw:APA91bEr0_7Qu_q-KrcbnKcHHaB63ripk87kABNKmMB49E-uIJXYkG2GTRDg9lQ8q4ilNO4XEv5fA5xA2cBpnOl4mYLvmJ3HHFXNeopmextvP6Zp5Axy-troj_1srp-i22VpYyMg-yTX","u_device_type":"Android","u_fname":"Talita","u_phone":"0790653766","u_email":"talita@platinumads.co.za","u_password":"Kirst709"}\nresponse_data : null\ntimestamp : 2018-04-29 22:52:46
+--------------------------END--------------------------------------------

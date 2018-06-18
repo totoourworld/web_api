@@ -1,0 +1,4 @@
+
+--------------------------2017-08-27 08:30:22-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"driver_id":"45","d_degree":"176.555","d_device_token":"ftYax5YSw2Q:APA91bF_JP_uI2jFHBvy_yEu3vqv4KsxRQxl72jIV-ziE__gIb4nEsrVqdwVWbp3IZ_QuDvTcsx162uyEhY1b9RiCRi2E7kfTPbM4xcSPSOF4txMwxGjCIGHxbAFqBEY3z1a_P2m9c8B","d_device_type":"Android","api_key":"293d9c866cc985499932189c4a9f0a06","d_is_available":"1"}\nresponse_data : null\ntimestamp : 2017-08-27 08:30:22
+--------------------------END--------------------------------------------

@@ -1,0 +1,7 @@
+
+--------------------------2018-04-09 11:17:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b55c28370567f31d1807c3162c0b0f8d","d_is_available":"1","driver_id":"11"}\nresponse_data : null\ntimestamp : 2018-04-09 11:17:09
+--------------------------END--------------------------------------------
+--------------------------2018-04-09 11:22:40-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b55c28370567f31d1807c3162c0b0f8d","d_is_available":"1","driver_id":"11"}\nresponse_data : null\ntimestamp : 2018-04-09 11:22:40
+--------------------------END--------------------------------------------

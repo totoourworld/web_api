@@ -1,0 +1,85 @@
+
+--------------------------2017-11-01 03:30:51-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"6"}\nresponse_data : null\ntimestamp : 2017-11-01 03:30:51
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 10:38:35-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"6"}\nresponse_data : null\ntimestamp : 2017-11-01 10:38:35
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:02:51-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"466a0a178a8c02f0f39c94d6976ab486","d_is_available":"1","driver_id":"10"}\nresponse_data : null\ntimestamp : 2017-11-01 11:02:51
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:08:29-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:08:29
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:08:33-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:08:33
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:09:59-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:09:59
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:10:00-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:10:00
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:10:01-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:10:01
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:42-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:42
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:43-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:43
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:44-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:44
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:45-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:45
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:46-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:46
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:46-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:46
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:47-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:47
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:18:48-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:18:48
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:25:21-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:25:21
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:25:22-------------------------------
+400-Invalid Promo.\nuser_id : \napi_name : promoapi/validatepromos\nclass_name : PromoAPI\naction_name : postValidatePromos\nrequested_data : {"api_key":"de8f9a20e93d5e272f04aa613b314eb4","promo_code":"dcp"}\nresponse_data : null\ntimestamp : 2017-11-01 11:25:22
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:49:49-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"812997542205261"}\nresponse_data : null\ntimestamp : 2017-11-01 11:49:49
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:51:52-------------------------------
+400-Your account has been deactivated. Please contact your customer support.\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_password":"aouts1962"}\nresponse_data : null\ntimestamp : 2017-11-01 11:51:52
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:52:04-------------------------------
+400-Your account has been deactivated. Please contact your customer support.\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_password":"aouts1962"}\nresponse_data : null\ntimestamp : 2017-11-01 11:52:04
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:55:11-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_fname":"Sam","u_lname":"Somphanh ","u_password":"aouts1962","u_phone":"5712356011"}\nresponse_data : null\ntimestamp : 2017-11-01 11:55:11
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:55:19-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_fname":"Sam","u_lname":"Somphanh ","u_password":"aouts1962","u_phone":"5712356011"}\nresponse_data : null\ntimestamp : 2017-11-01 11:55:19
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:55:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_fname":"Sam","u_lname":"Somphanh ","u_password":"aouts1962","u_phone":"5712356011"}\nresponse_data : null\ntimestamp : 2017-11-01 11:55:29
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 11:56:28-------------------------------
+400-Your account has been deactivated. Please contact your customer support.\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_password":"aouts1962"}\nresponse_data : null\ntimestamp : 2017-11-01 11:56:28
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 12:09:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bsomphan@yahoo.com","u_fname":"Sam","u_lname":"Somphanh ","u_password":"Aouts!962","u_phone":"5712356011"}\nresponse_data : null\ntimestamp : 2017-11-01 12:09:29
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 12:10:23-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"384377828657532"}\nresponse_data : null\ntimestamp : 2017-11-01 12:10:23
+--------------------------END--------------------------------------------
+--------------------------2017-11-01 12:10:45-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"384377828657532"}\nresponse_data : null\ntimestamp : 2017-11-01 12:10:45
+--------------------------END--------------------------------------------

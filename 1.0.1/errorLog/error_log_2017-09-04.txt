@@ -1,0 +1,178 @@
+
+--------------------------2017-09-04 09:40:44-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"e3537af3f2262bf9c312c48d62bc312c"}\nresponse_data : null\ntimestamp : 2017-09-04 09:40:44
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 09:43:24-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 09:43:24
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 10:18:50-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 10:18:50
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 10:23:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 10:23:21
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 10:24:17-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 10:24:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 10:32:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 10:32:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 10:58:53-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 10:58:53
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 11:31:36-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"65.830002","pay_mode":"Cash","pay_promo_amt":"3.46","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"262","trip_pay_amount":"69.29","trip_pay_date":"2017-09-04 11:31:35"}\nresponse_data : null\ntimestamp : 2017-09-04 11:31:36
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 11:37:46-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 11:37:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 12:25:42-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.5355962337198","d_lng":"77.25959521865008","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 12:25:42
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 12:46:43-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 12:46:43
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 12:53:19-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 12:53:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:03:56-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:03:56
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:03:59-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53560066223145","d_lng":"77.25959014892578","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:03:59
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:04:12-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"271.419006","pay_mode":"Cash","pay_promo_amt":"14.28","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"263","trip_pay_amount":"285.699","trip_pay_date":"2017-09-04 13:04:11"}\nresponse_data : null\ntimestamp : 2017-09-04 13:04:12
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:08:12-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"286.354004","pay_mode":"Cash","pay_promo_amt":"15.07","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"264","trip_pay_amount":"301.424","trip_pay_date":"2017-09-04 13:08:12"}\nresponse_data : null\ntimestamp : 2017-09-04 13:08:12
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:12:49-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"303.800018","pay_mode":"Cash","pay_promo_amt":"15.99","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"266","trip_pay_amount":"319.79","trip_pay_date":"2017-09-04 13:12:48"}\nresponse_data : null\ntimestamp : 2017-09-04 13:12:49
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:16:11-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"8441.120117","pay_mode":"Cash","pay_promo_amt":"444.27","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"267","trip_pay_amount":"8885.39","trip_pay_date":"2017-09-04 13:16:11"}\nresponse_data : null\ntimestamp : 2017-09-04 13:16:11
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:18:22-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:18:22
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:20:14-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"297.839996","pay_mode":"Cash","pay_promo_amt":"15.68","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"268","trip_pay_amount":"313.52","trip_pay_date":"2017-09-04 13:20:14"}\nresponse_data : null\ntimestamp : 2017-09-04 13:20:14
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:26:46-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"302.705994","pay_mode":"Cash","pay_promo_amt":"15.93","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"269","trip_pay_amount":"318.636","trip_pay_date":"2017-09-04 13:26:46"}\nresponse_data : null\ntimestamp : 2017-09-04 13:26:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:32:31-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559875488281","d_lng":"77.25959014892578","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:32:31
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:33:57-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"312.635986","pay_mode":"Cash","pay_status":"Paid","trip_id":"271","trip_pay_amount":"312.636","trip_pay_date":"2017-09-04 13:33:57"}\nresponse_data : null\ntimestamp : 2017-09-04 13:33:57
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:37:26-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:37:26
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:39:04-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"312.600006","pay_mode":"Cash","pay_status":"Paid","trip_id":"273","trip_pay_amount":"312.6","trip_pay_date":"2017-09-04 13:39:03"}\nresponse_data : null\ntimestamp : 2017-09-04 13:39:04
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:41:32-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:41:32
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:44:00-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:44:00
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:45:42-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:45:42
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:48:18-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:48:18
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:53:30-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:53:30
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 13:58:05-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 13:58:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:01:38-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:01:38
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:03:41-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:03:41
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:05:52-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:05:52
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:12:32-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:12:32
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:12:35-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"driver_id":"17","d_degree":"176.555","d_device_token":"fI52NPDa5dw:APA91bFlHC2TZknnfrMm6NdRJEYgW9B9DXFOft4GksKqEyAaMV74HcoYFAVEv_u0LrN9eh3GXUx6NSaHagsVlvIxMorTv0g4YwOdHti60Qka0qzORHUHwqpuBVgxfQfaQnBpUDuP1hZf","d_device_type":"Android","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","d_is_available":"1"}\nresponse_data : null\ntimestamp : 2017-09-04 14:12:35
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:16:38-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:16:38
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:16:41-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:16:41
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:18:18-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"64.889999","pay_mode":"Cash","pay_promo_amt":"3.42","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"282","trip_pay_amount":"68.31","trip_pay_date":"2017-09-04 14:18:17"}\nresponse_data : null\ntimestamp : 2017-09-04 14:18:18
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:23:46-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:23:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:26:48-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:26:48
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:29:23-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:29:23
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:33:22-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:33:22
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:34:48-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"8884.480469","pay_mode":"Cash","pay_status":"Paid","trip_id":"283","trip_pay_amount":"8884.48","trip_pay_date":"2017-09-04 14:34:47"}\nresponse_data : null\ntimestamp : 2017-09-04 14:34:48
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:35:33-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:35:33
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:37:20-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"300.270020","pay_mode":"Cash","pay_promo_amt":"15.80","pay_promo_code":"DCP","pay_status":"Paid","promo_id":"2","trip_id":"284","trip_pay_amount":"316.07","trip_pay_date":"2017-09-04 14:37:20"}\nresponse_data : null\ntimestamp : 2017-09-04 14:37:20
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:39:55-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:39:55
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:41:54-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:41:54
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:42:42-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:42:42
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:42:45-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559494018555","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:42:45
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:49:17-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"314.570007","pay_mode":"Cash","pay_status":"Paid","trip_id":"286","trip_pay_amount":"314.57","trip_pay_date":"2017-09-04 14:49:17"}\nresponse_data : null\ntimestamp : 2017-09-04 14:49:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:55:37-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:55:37
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:58:03-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:58:03
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:58:06-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:58:06
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:59:05-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"322.299988","pay_mode":"Cash","pay_status":"Paid","trip_id":"287","trip_pay_amount":"322.3","trip_pay_date":"2017-09-04 14:59:04"}\nresponse_data : null\ntimestamp : 2017-09-04 14:59:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:59:34-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"trip_id":"288"}\nresponse_data : null\ntimestamp : 2017-09-04 14:59:34
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:59:35-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"trip_id":"288"}\nresponse_data : null\ntimestamp : 2017-09-04 14:59:35
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 14:59:46-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-04 14:59:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-04 15:02:56-------------------------------
+400-trip_pay_amount column is not exist in payments table.\nuser_id : \napi_name : paymentapi/save\nclass_name : PaymentAPI\naction_name : postSave\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","pay_amount":"320.950012","pay_mode":"Cash","pay_status":"Paid","trip_id":"289","trip_pay_amount":"320.95","trip_pay_date":"2017-09-04 15:02:55"}\nresponse_data : null\ntimestamp : 2017-09-04 15:02:56
+--------------------------END--------------------------------------------

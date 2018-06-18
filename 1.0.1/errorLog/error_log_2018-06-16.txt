@@ -1,0 +1,16 @@
+
+--------------------------2018-06-16 10:21:43-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"ochukoeruotor@yahoo.com","u_password":"principle123"}\nresponse_data : null\ntimestamp : 2018-06-16 10:21:43
+--------------------------END--------------------------------------------
+--------------------------2018-06-16 10:22:39-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"ochukoeruotor@yahoo.com","u_password":"principle123"}\nresponse_data : null\ntimestamp : 2018-06-16 10:22:39
+--------------------------END--------------------------------------------
+--------------------------2018-06-16 10:23:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"ochukoeruotor@yahoo.com","u_password":"principle123"}\nresponse_data : null\ntimestamp : 2018-06-16 10:23:46
+--------------------------END--------------------------------------------
+--------------------------2018-06-16 22:40:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cryptoanita@gmail.com","u_password":"tiJune162018"}\nresponse_data : null\ntimestamp : 2018-06-16 22:40:45
+--------------------------END--------------------------------------------
+--------------------------2018-06-16 22:42:44-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cryptoanita@gmail.com","u_password":"tiJune162018"}\nresponse_data : null\ntimestamp : 2018-06-16 22:42:44
+--------------------------END--------------------------------------------

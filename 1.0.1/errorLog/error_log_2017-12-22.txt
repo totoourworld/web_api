@@ -1,0 +1,16 @@
+
+--------------------------2017-12-22 18:35:21-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"laolancer12@gmail.com","d_password":"12345678"}\nresponse_data : null\ntimestamp : 2017-12-22 18:35:21
+--------------------------END--------------------------------------------
+--------------------------2017-12-22 18:35:31-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"laolancer12@gmail.com","d_password":"12345678"}\nresponse_data : null\ntimestamp : 2017-12-22 18:35:31
+--------------------------END--------------------------------------------
+--------------------------2017-12-22 18:37:01-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"laolancer12@gmail.com","d_password":"12345678"}\nresponse_data : null\ntimestamp : 2017-12-22 18:37:01
+--------------------------END--------------------------------------------
+--------------------------2017-12-22 18:37:06-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"laolancer12@gmail.com","d_password":"12345678"}\nresponse_data : null\ntimestamp : 2017-12-22 18:37:06
+--------------------------END--------------------------------------------
+--------------------------2017-12-22 18:38:12-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"laolancer12@gmail.com","d_password":"12345678"}\nresponse_data : null\ntimestamp : 2017-12-22 18:38:12
+--------------------------END--------------------------------------------

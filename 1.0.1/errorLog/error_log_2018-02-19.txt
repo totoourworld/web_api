@@ -1,0 +1,19 @@
+
+--------------------------2018-02-19 12:42:52-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"anitafrylinck@gmail.com","u_password":"69225586"}\nresponse_data : null\ntimestamp : 2018-02-19 12:42:52
+--------------------------END--------------------------------------------
+--------------------------2018-02-19 13:51:57-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-02-19 13:51:57
+--------------------------END--------------------------------------------
+--------------------------2018-02-19 13:53:16-------------------------------
+400-please enter your email\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fJoW6mZeenE:APA91bHf0j1xK9dhzL41fRISwMVJApajA3eIBi3wANOFINcdpEn7Y8M208sdt3Jiluadj2BxSVRMVS27CDXSA_VdzgO0Dp4V8O2c2y9q895XzX3FeZ_p-uIqwSZ1YAhkWuOUWhy74g4l","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-19 13:53:16
+--------------------------END--------------------------------------------
+--------------------------2018-02-19 13:54:13-------------------------------
+400-please enter your email\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fJoW6mZeenE:APA91bHf0j1xK9dhzL41fRISwMVJApajA3eIBi3wANOFINcdpEn7Y8M208sdt3Jiluadj2BxSVRMVS27CDXSA_VdzgO0Dp4V8O2c2y9q895XzX3FeZ_p-uIqwSZ1YAhkWuOUWhy74g4l","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-19 13:54:13
+--------------------------END--------------------------------------------
+--------------------------2018-02-19 16:32:00-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"anitafrylinck@gmail.com","u_password":"69225586"}\nresponse_data : null\ntimestamp : 2018-02-19 16:32:00
+--------------------------END--------------------------------------------
+--------------------------2018-02-19 16:32:52-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"anitafrylinck@gmail.com","d_password":"69225586"}\nresponse_data : null\ntimestamp : 2018-02-19 16:32:52
+--------------------------END--------------------------------------------

@@ -1,0 +1,10 @@
+
+--------------------------2018-06-15 00:32:16-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"abasiono","u_email":"polyodiong@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-15 00:32:16
+--------------------------END--------------------------------------------
+--------------------------2018-06-15 00:32:39-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"Abasiono","u_email":"polyodiong@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-15 00:32:39
+--------------------------END--------------------------------------------
+--------------------------2018-06-15 00:32:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"Abasiono","u_email":"polyodiong@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-15 00:32:46
+--------------------------END--------------------------------------------

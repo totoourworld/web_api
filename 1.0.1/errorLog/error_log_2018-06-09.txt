@@ -1,0 +1,22 @@
+
+--------------------------2018-06-09 02:29:18-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"non_x@windowslive.com","u_password":"nopp2520"}\nresponse_data : null\ntimestamp : 2018-06-09 02:29:18
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 02:29:24-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"non_x@windowslive.com","u_password":"nopp2520"}\nresponse_data : null\ntimestamp : 2018-06-09 02:29:24
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 02:29:39-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"non_x@windowslive.com","u_password":"nopp2520"}\nresponse_data : null\ntimestamp : 2018-06-09 02:29:39
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 02:30:39-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"non_x@windowslive.com"}\nresponse_data : null\ntimestamp : 2018-06-09 02:30:39
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 02:31:08-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"non_x@windowslive.com","u_password":"nopp2520"}\nresponse_data : null\ntimestamp : 2018-06-09 02:31:08
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 06:29:47-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"bogorodskij@my.com","u_password":"me7ga7n7"}\nresponse_data : null\ntimestamp : 2018-06-09 06:29:47
+--------------------------END--------------------------------------------
+--------------------------2018-06-09 13:02:56-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"cTB2-NPOu4g:APA91bEAw5yLAsEUrj0Tm1z6dp9c1MB9jtH6ddHQUjsMQQ4EGutYUYCvemY4p0PSLC5Q03H6VQ0W68bMgz_Ijt6MiyjM1aJkdSU0CnDsypqK8eQ3h_NVFACxdgwtTIthMQx_ZRGmxZrF","u_device_type":"Android","u_fname":"vincent","u_phone":"08033088619","u_email":"Vincentwilliams29@yahoo.com","u_password":"Biggystuff!5"}\nresponse_data : null\ntimestamp : 2018-06-09 13:02:56
+--------------------------END--------------------------------------------

@@ -1,0 +1,19 @@
+
+--------------------------2018-04-01 02:49:30-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"altarejos","d_device_type":"Android","d_email":"altarejosremar10@gmail.com","d_phone":"09294569849","d_device_token":"fwxejgvhnIM:APA91bE3rdfByxxC7wc75kSYtVP7zgOfzUdNl5sWjzVt5jYO-fjMD4jhTcpgo6r-5tACgLydTnKkq2CmpuPrmVCGT7JsML5esOvCEM1XXcdn0TCe31k0-3Ytr8tfbo_6WJI1Qt4_kmkP","d_fname":"remar","d_password":"june301995"}\nresponse_data : null\ntimestamp : 2018-04-01 02:49:30
+--------------------------END--------------------------------------------
+--------------------------2018-04-01 17:36:57-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@Gmail.com","u_password":"Jesus@7.1964"}\nresponse_data : null\ntimestamp : 2018-04-01 17:36:57
+--------------------------END--------------------------------------------
+--------------------------2018-04-01 17:37:14-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@Gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-04-01 17:37:14
+--------------------------END--------------------------------------------
+--------------------------2018-04-01 17:37:56-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-04-01 17:37:56
+--------------------------END--------------------------------------------
+--------------------------2018-04-01 17:39:30-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"pastoroyewole@gmail.com"}\nresponse_data : null\ntimestamp : 2018-04-01 17:39:30
+--------------------------END--------------------------------------------
+--------------------------2018-04-01 18:09:16-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"pastoroyewole@Gmail.com","d_password":"Jesus@7.1964"}\nresponse_data : null\ntimestamp : 2018-04-01 18:09:16
+--------------------------END--------------------------------------------

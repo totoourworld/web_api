@@ -1,0 +1,13 @@
+
+--------------------------2018-05-31 14:27:32-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"vishnureghu@gmail.com","d_password":"vishnu123"}\nresponse_data : null\ntimestamp : 2018-05-31 14:27:32
+--------------------------END--------------------------------------------
+--------------------------2018-05-31 14:31:14-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"car_reg_no":"KL01BW9207","api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","d_is_verified":"true","driver_id":"22","car_make":"Austin","category_id":"2","car_model":"2016","car_name":"Mini"}\nresponse_data : null\ntimestamp : 2018-05-31 14:31:14
+--------------------------END--------------------------------------------
+--------------------------2018-05-31 14:36:03-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_status":"cancel","trip_id":"10","api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","user_id":"46"}\nresponse_data : null\ntimestamp : 2018-05-31 14:36:03
+--------------------------END--------------------------------------------
+--------------------------2018-05-31 18:06:08-------------------------------
+400-Invalid Driver.\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : postGetDrivers\nrequested_data : {"api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","driver_id":"0"}\nresponse_data : null\ntimestamp : 2018-05-31 18:06:08
+--------------------------END--------------------------------------------

@@ -1,0 +1,16 @@
+
+--------------------------2017-11-13 06:38:30-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"173834829867102"}\nresponse_data : null\ntimestamp : 2017-11-13 06:38:30
+--------------------------END--------------------------------------------
+--------------------------2017-11-13 08:53:07-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"totoourword@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2017-11-13 08:53:07
+--------------------------END--------------------------------------------
+--------------------------2017-11-13 08:53:16-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2017-11-13 08:53:16
+--------------------------END--------------------------------------------
+--------------------------2017-11-13 08:55:00-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kgs1994313"}\nresponse_data : null\ntimestamp : 2017-11-13 08:55:00
+--------------------------END--------------------------------------------
+--------------------------2017-11-13 08:55:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"super2lao@gmail.com","u_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2017-11-13 08:55:20
+--------------------------END--------------------------------------------

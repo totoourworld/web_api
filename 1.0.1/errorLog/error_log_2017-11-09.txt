@@ -1,0 +1,10 @@
+
+--------------------------2017-11-09 04:23:50-------------------------------
+401-\nuser_id : \napi_name : driverapi/getnearbydriverlists\nclass_name : DriverAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-11-09 04:23:50
+--------------------------END--------------------------------------------
+--------------------------2017-11-09 13:27:10-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"api_key":"7d1984fd882311bbbbfdb901c4f293b6","u_fbid":"10203890768345864"}\nresponse_data : null\ntimestamp : 2017-11-09 13:27:10
+--------------------------END--------------------------------------------
+--------------------------2017-11-09 13:27:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"api_key":"7d1984fd882311bbbbfdb901c4f293b6","u_device_token":"a33f19f5a9622acd060e4f12e17324d92f7bb4af01a05f079abbe325b2ada5f8","u_device_type":"ios","u_email":"bsomphan@yahoo.com","u_fbid":"10203890768345864","u_fname":"Sam","u_lname":"Somphanh","u_password":"test","u_phone":"5712356011"}\nresponse_data : null\ntimestamp : 2017-11-09 13:27:29
+--------------------------END--------------------------------------------

@@ -1,0 +1,7 @@
+
+--------------------------2018-06-06 09:33:40-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_password":"Yus73Md57","d_email":"myhaniyus@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-06 09:33:40
+--------------------------END--------------------------------------------
+--------------------------2018-06-06 09:33:45-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_password":"Yus73Md57","d_email":"myhaniyus@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-06 09:33:45
+--------------------------END--------------------------------------------

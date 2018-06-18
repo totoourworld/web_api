@@ -1,0 +1,7 @@
+
+--------------------------2018-02-18 12:29:07-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"15666666666"}\nresponse_data : null\ntimestamp : 2018-02-18 12:29:07
+--------------------------END--------------------------------------------
+--------------------------2018-02-18 16:28:02-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-02-18 16:28:02
+--------------------------END--------------------------------------------

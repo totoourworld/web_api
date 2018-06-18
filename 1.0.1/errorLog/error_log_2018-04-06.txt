@@ -1,0 +1,31 @@
+
+--------------------------2018-04-06 02:42:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"thingyanlay58@gmail.com","u_password":"47474747"}\nresponse_data : null\ntimestamp : 2018-04-06 02:42:05
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 02:42:16-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"thingyanlay58@gmail.com","u_password":"47474747"}\nresponse_data : null\ntimestamp : 2018-04-06 02:42:16
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 02:42:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"thingyanlay58@gmail.com","u_password":"09978848208"}\nresponse_data : null\ntimestamp : 2018-04-06 02:42:42
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 02:43:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"thingyanlay58@gmail.com","u_password":"09978848208"}\nresponse_data : null\ntimestamp : 2018-04-06 02:43:45
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 07:02:19-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_device_token":"a4b5700d4be6a5b5710e9d35e88aea792e89c492212188547227189d1f7f1ee0","d_device_type":"ios","d_email":"idmcsamuel@Gmail.com","d_fname":"Idara","d_lname":"Mcsamuel ","d_password":"jemuel5891","d_phone":"+27723423457"}\nresponse_data : null\ntimestamp : 2018-04-06 07:02:19
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 07:02:24-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_device_token":"a4b5700d4be6a5b5710e9d35e88aea792e89c492212188547227189d1f7f1ee0","d_device_type":"ios","d_email":"idmcsamuel@Gmail.com","d_fname":"Idara","d_lname":"Mcsamuel ","d_password":"jemuel5891","d_phone":"+27723423457"}\nresponse_data : null\ntimestamp : 2018-04-06 07:02:24
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 07:02:40-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ada8ada2b25839fb142f1a428e9fbc91","d_device_token":"a4b5700d4be6a5b5710e9d35e88aea792e89c492212188547227189d1f7f1ee0","d_device_type":"ios","d_email":"idmcsamuel@gmail.com","d_fname":"Idara","d_lname":"Mcsamuel ","d_password":"jemuel5891","d_phone":"+27723423457"}\nresponse_data : null\ntimestamp : 2018-04-06 07:02:40
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 10:15:53-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-04-06 10:15:53
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 10:16:02-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-04-06 10:16:02
+--------------------------END--------------------------------------------
+--------------------------2018-04-06 13:26:38-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reliancykenya@gmail.com","u_password":"qwertyuiop"}\nresponse_data : null\ntimestamp : 2018-04-06 13:26:38
+--------------------------END--------------------------------------------

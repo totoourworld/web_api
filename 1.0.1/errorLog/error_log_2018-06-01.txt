@@ -1,0 +1,10 @@
+
+--------------------------2018-06-01 01:01:18-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","driver_id":"22","d_is_available":"0","d_device_token":"d3xY0u8oPzs:APA91bGtH4HPTdNPID5soETg_0IktD82qtE0OJjuH1Znpu_MgBRzmEmGBYdCh7AbORSLsoyfFI--kNkRQPP8najblIfFurWvU4C047fx2OlokAHMElGbm7IvT8bkcOBuwPzH_JCGQopy"}\nresponse_data : null\ntimestamp : 2018-06-01 01:01:18
+--------------------------END--------------------------------------------
+--------------------------2018-06-01 01:04:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","driver_id":"22","d_is_available":"1","d_device_token":"d3xY0u8oPzs:APA91bGtH4HPTdNPID5soETg_0IktD82qtE0OJjuH1Znpu_MgBRzmEmGBYdCh7AbORSLsoyfFI--kNkRQPP8najblIfFurWvU4C047fx2OlokAHMElGbm7IvT8bkcOBuwPzH_JCGQopy"}\nresponse_data : null\ntimestamp : 2018-06-01 01:04:21
+--------------------------END--------------------------------------------
+--------------------------2018-06-01 14:53:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"f923c3f4fbd9b1b4a4bc9538bf43e63c","driver_id":"22","d_is_available":"1","d_device_token":"d3xY0u8oPzs:APA91bGtH4HPTdNPID5soETg_0IktD82qtE0OJjuH1Znpu_MgBRzmEmGBYdCh7AbORSLsoyfFI--kNkRQPP8najblIfFurWvU4C047fx2OlokAHMElGbm7IvT8bkcOBuwPzH_JCGQopy"}\nresponse_data : null\ntimestamp : 2018-06-01 14:53:21
+--------------------------END--------------------------------------------

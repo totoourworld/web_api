@@ -1,0 +1,28 @@
+
+--------------------------2018-06-14 08:58:14-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reasonblive@gmail.com","u_password":"globalmoney1"}\nresponse_data : null\ntimestamp : 2018-06-14 08:58:14
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 08:58:18-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reasonblive@gmail.com","u_password":"globalmoney1"}\nresponse_data : null\ntimestamp : 2018-06-14 08:58:18
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 08:58:30-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reasonblive@gmail.com","u_password":"chijioke08"}\nresponse_data : null\ntimestamp : 2018-06-14 08:58:30
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 09:33:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1962"}\nresponse_data : null\ntimestamp : 2018-06-14 09:33:45
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 15:52:51-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reasonblive@gmail.com","u_password":"globalmoney1"}\nresponse_data : null\ntimestamp : 2018-06-14 15:52:51
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 15:53:07-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"reasonblive@gmail.com","u_password":"chijioke08"}\nresponse_data : null\ntimestamp : 2018-06-14 15:53:07
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 15:53:29-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"reasonblive@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-14 15:53:29
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 21:07:03-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"abasiono","u_email":"polyodiong@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-14 21:07:03
+--------------------------END--------------------------------------------
+--------------------------2018-06-14 21:07:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"Abasiono","u_email":"polyodiong@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-14 21:07:42
+--------------------------END--------------------------------------------

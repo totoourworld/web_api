@@ -1,0 +1,25 @@
+
+--------------------------2018-05-09 20:55:14-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"cspointrips@gmail.com","d_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 20:55:14
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 20:55:20-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"cspointrips@gmail.com","d_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 20:55:20
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 20:55:26-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"cspointrips@gmail.com","d_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 20:55:26
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 20:55:29-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"cspointrips@gmail.com","d_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 20:55:29
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 21:01:03-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cspointrips@gmail.com","u_password":"OK7158YT"}\nresponse_data : null\ntimestamp : 2018-05-09 21:01:03
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 21:01:17-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cspointrips@gmail.com","u_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 21:01:17
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 21:01:22-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cspointrips@gmail.com","u_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 21:01:22
+--------------------------END--------------------------------------------
+--------------------------2018-05-09 22:11:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cspointrips@gmail.com","u_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-09 22:11:34
+--------------------------END--------------------------------------------

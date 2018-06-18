@@ -1,0 +1,262 @@
+
+--------------------------2017-09-14 05:00:30-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"mirza","d_device_type":"Android","d_email":"mmsazmi@gmail.com","d_phone":"7415449943","d_device_token":"c9OFv0ZJ4Y0:APA91bGamULppjZdUeX8bMZzo0Dz4ASGwZK6D3Ysjf6CiIRI9625dLp7zhcQ5tVe1kpzoz2fewWlbuSZ5_xWo3dUlq8gKsR2SB2JWrrGbNQZ3lUCuK4PnzcTg234ODWSYirGCnTtmMdJ","d_fname":"mirza","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-09-14 05:00:30
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 05:58:51-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"10210506004701656"}\nresponse_data : null\ntimestamp : 2017-09-14 05:58:51
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:11:16-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:11:16
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:12:24-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:12:24
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:18:35-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"25b2366aceca901cbcc5dd8caea2c13b","driver_id":"58","car_reg_no":"gjjjnbg","car_model":"2014","category_id":"1"}\nresponse_data : null\ntimestamp : 2017-09-14 06:18:35
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:18:36-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:18:36
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:27:28-------------------------------
+401-\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 06:27:28
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:27:46-------------------------------
+401-\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 06:27:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:38:17-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:38:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:45:58-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:45:58
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 06:47:01-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 06:47:01
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 07:16:19-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 07:16:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 07:46:06-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 07:46:06
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 07:46:32-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 07:46:32
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:09:15-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:09:15
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:10:26-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:10:26
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:10:34-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:10:34
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:12:04-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:12:04
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:12:41-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:12:41
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:13:52-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:13:52
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:14:46-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:14:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:16:01-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:16:01
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:16:49-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"efad9055a6f3e3bd0366e110418f3a50","d_is_available":"1","driver_id":"74"}\nresponse_data : null\ntimestamp : 2017-09-14 08:16:49
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:17:01-------------------------------
+400-Email id is  required\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 08:17:01
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:17:10-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894007","lng":"150.938639","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:17:10
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:17:28-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894132","lng":"150.938748","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:17:28
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:19:46-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894063","lng":"150.938689","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:19:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:19:48-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.893985","lng":"150.938623","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:19:48
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:20:03-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894057","lng":"150.938669","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:20:03
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:20:18-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894114","lng":"150.938733","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:20:18
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:20:33-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894036","lng":"150.938668","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:20:33
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:22:10-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 08:22:10
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:22:37-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"annie_nguyen@y7mail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:22:37
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:24:11-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"ceda4beb03131f003c6d117571615438","car_make":"","car_model":"2008","car_name":"Toyota Yaris","car_reg_no":"CM45CM","category_id":"1","driver_id":"76"}\nresponse_data : null\ntimestamp : 2017-09-14 08:24:11
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:24:14-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ceda4beb03131f003c6d117571615438","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"annie.tnt.nguyen@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:24:14
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:24:17-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ceda4beb03131f003c6d117571615438","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"annie.tnt.nguyen@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:24:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:24:26-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ceda4beb03131f003c6d117571615438","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"annie.tnt.nguyen@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"cn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:24:26
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:25:17-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"ceda4beb03131f003c6d117571615438","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"annie.tnt.nguyen@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:25:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:27:24-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"0074c509022092bd1dfba8a1cc2ff319","car_make":"","car_model":"2008","car_name":"Toyota","car_reg_no":"CM45DD","category_id":"1","driver_id":"77"}\nresponse_data : null\ntimestamp : 2017-09-14 08:27:24
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:27:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"0074c509022092bd1dfba8a1cc2ff319","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"ozan_express@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:27:29
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:28:05-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"0074c509022092bd1dfba8a1cc2ff319","d_device_token":"89beb09e22fd6f609d254608a5c2a720d8685e946d5562504ae41942c4c19ef4","d_device_type":"ios","d_email":"ozan_express@gmail.com","d_fname":"Annie","d_lname":"Nguyen","d_password":"vn717151","d_phone":"0433274455"}\nresponse_data : null\ntimestamp : 2017-09-14 08:28:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:38:09-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"115989872425055"}\nresponse_data : null\ntimestamp : 2017-09-14 08:38:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:51:09-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894037","lng":"150.938665","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 08:51:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 08:55:32-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 08:55:32
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 09:25:39-------------------------------
+400-Invalid Category.\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : postGetCategories\nrequested_data : {"category_id":"0","api_key":"25b2366aceca901cbcc5dd8caea2c13b"}\nresponse_data : null\ntimestamp : 2017-09-14 09:25:39
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 09:39:19-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"mmmsazmi786@gmail.com","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-09-14 09:39:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 09:43:56-------------------------------
+401-\nuser_id : \napi_name : userapi/getnearbyuserlists\nclass_name : UserAPI\naction_name : \nrequested_data : {"lat":"-33.894112","lng":"150.938709","miles":"20"}\nresponse_data : null\ntimestamp : 2017-09-14 09:43:56
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 11:37:20-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"fd7f2c9190ab9e59be7cd180f746ef6d","d_is_available":"1","d_lat":"28.53562545776367","d_lng":"77.25955200195312","driver_id":"75"}\nresponse_data : null\ntimestamp : 2017-09-14 11:37:20
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 11:41:35-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"test12","u_email":"adam@gnail.com"}\nresponse_data : null\ntimestamp : 2017-09-14 11:41:35
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:22:02-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Chrysler","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1995","category_id":"1","car_name":"Fifth Ave"}\nresponse_data : null\ntimestamp : 2017-09-14 12:22:02
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:22:24-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Fairthorpe","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"2006","category_id":"1","car_name":"Rockette"}\nresponse_data : null\ntimestamp : 2017-09-14 12:22:24
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:22:31-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Fairthorpe","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"2006","category_id":"1","car_name":"Rockette"}\nresponse_data : null\ntimestamp : 2017-09-14 12:22:31
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:22:53-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Mercury","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1994","category_id":"1","car_name":"Sable"}\nresponse_data : null\ntimestamp : 2017-09-14 12:22:53
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:23:05-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Mercury","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1994","category_id":"1","car_name":"Sable"}\nresponse_data : null\ntimestamp : 2017-09-14 12:23:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:23:16-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Mercury","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1994","category_id":"1","car_name":"Sable"}\nresponse_data : null\ntimestamp : 2017-09-14 12:23:16
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:23:37-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Cadillac","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1995","category_id":"1","car_name":"Escalade EXT"}\nresponse_data : null\ntimestamp : 2017-09-14 12:23:37
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:24:07-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Cadillac","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"1971","category_id":"2","car_name":"XLR-V"}\nresponse_data : null\ntimestamp : 2017-09-14 12:24:07
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:24:45-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"eae88b5c6e22349336dfa98f18977156","car_make":"Ford","driver_id":"80","car_reg_no":"ghjhgjj123","car_model":"2000","category_id":"1","car_name":"Econoline E150"}\nresponse_data : null\ntimestamp : 2017-09-14 12:24:45
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:46:04-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"hsbdhd","d_fname":"bdhdhd","d_device_token":"fC-2fWjgaUc:APA91bG_q6y0Q_fNzf3ADSP9arJoURsaGgfeg5XCCruhT2sL6SDtpoPWUndszixCTsyIQLwNjKhNm_bT7liy-660U8HvdjdsrhGBXf43iRerPCnUML4N_iGiQpnzYbkvOWAY2iuGKu0t","d_phone":"918860213347","d_device_type":"Android","d_password":"test12","d_email":"grepix.manager@gmail.com"}\nresponse_data : null\ntimestamp : 2017-09-14 12:46:04
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 12:49:46-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"hshdhdh","d_fname":"zhshddhhd","d_device_token":"fC-2fWjgaUc:APA91bG_q6y0Q_fNzf3ADSP9arJoURsaGgfeg5XCCruhT2sL6SDtpoPWUndszixCTsyIQLwNjKhNm_bT7liy-660U8HvdjdsrhGBXf43iRerPCnUML4N_iGiQpnzYbkvOWAY2iuGKu0t","d_phone":"918860213347","d_device_type":"Android","d_password":"test12","d_email":"grepix.manager@gmail.com"}\nresponse_data : null\ntimestamp : 2017-09-14 12:49:46
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:07:17-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"83608c0a1f07c30442470756cd0e41b6"}\nresponse_data : null\ntimestamp : 2017-09-14 13:07:17
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:10:14-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"22780eb784106a18246419aa209573d2","car_make":"Ford","driver_id":"85","car_reg_no":"mirza","car_model":"2014","category_id":"2","car_name":"Country"}\nresponse_data : null\ntimestamp : 2017-09-14 13:10:14
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:11:58-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"22780eb784106a18246419aa209573d2","car_make":"BMW","driver_id":"85","car_reg_no":"mirza123456","car_model":"1971","category_id":"2","car_name":"X3"}\nresponse_data : null\ntimestamp : 2017-09-14 13:11:58
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:29:05-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"mirza","d_device_type":"Android","d_email":"mirza@gmail.com","d_phone":"957415449943","d_device_token":"dRVB1DUDyVw:APA91bFl70hPCeJtLpCAHXIArYYoru2UmNkXHP2_i7U080_wQKizorvjE80-JPYnrdmmmW26fsDBXBZpZBwmvPfTnO5ZF8Tkn-q16UPHHs89gra_MxGsCpM3o-KDhSFofslzQm6VSBzS","d_fname":"mirza","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-09-14 13:29:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:31:19-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"16d95e33a529a8486a56eeb0077e1748","car_make":"Jensen","driver_id":"86","car_reg_no":"mkp123","car_model":"2007","category_id":"1","car_name":"Interceptor"}\nresponse_data : null\ntimestamp : 2017-09-14 13:31:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:45:51-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"mirza786@gmail.com","d_password":"test123"}\nresponse_data : null\ntimestamp : 2017-09-14 13:45:51
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:48:27-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"16d95e33a529a8486a56eeb0077e1748","car_make":"Chevrolet","driver_id":"86","car_reg_no":"mkp12","car_model":"1994","category_id":"1","car_name":"Cruze"}\nresponse_data : null\ntimestamp : 2017-09-14 13:48:27
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:51:45-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"6e66c6ae2049c03272621c4c94f4fa90"}\nresponse_data : null\ntimestamp : 2017-09-14 13:51:45
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:53:09-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"238bfc6ac29e931533aaa2d2a4545a1f"}\nresponse_data : null\ntimestamp : 2017-09-14 13:53:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 13:59:37-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"e1e1634f251654baf4e16731ceef799f","d_is_available":"1","d_lat":"28.53562927246094","d_lng":"77.25955963134766","driver_id":"60"}\nresponse_data : null\ntimestamp : 2017-09-14 13:59:37
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:02:40-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"e1e1634f251654baf4e16731ceef799f","d_is_available":"1","d_lat":"28.53562761521413","d_lng":"77.25956441198913","driver_id":"60"}\nresponse_data : null\ntimestamp : 2017-09-14 14:02:40
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:13:22-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 14:13:22
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:13:22-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 14:13:22
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:13:23-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 14:13:23
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:13:23-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-09-14 14:13:23
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:22:19-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:22:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:22:19-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:22:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:22:20-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:22:20
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:22:20-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:22:20
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:23:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"e1e1634f251654baf4e16731ceef799f","d_is_available":"1","driver_id":"60"}\nresponse_data : null\ntimestamp : 2017-09-14 14:23:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:24:29-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"e1e1634f251654baf4e16731ceef799f","d_device_token":"1ca0e53178c0eee0d3d6550e3bd68deeed2a45e9db2dccdc77023c69ac612799","d_device_type":"ios","driver_id":"60"}\nresponse_data : null\ntimestamp : 2017-09-14 14:24:29
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:29:05-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:29:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:29:05-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:29:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:29:06-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:29:06
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:29:06-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"next_offset":"0","is_request":"0","limit":"10"}\nresponse_data : null\ntimestamp : 2017-09-14 14:29:06
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:31:10-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"16d95e33a529a8486a56eeb0077e1748","car_make":"Ford","driver_id":"86","car_reg_no":"fyhmkp1223","car_model":"1985","category_id":"2","car_name":"Contour"}\nresponse_data : null\ntimestamp : 2017-09-14 14:31:10
+--------------------------END--------------------------------------------
+--------------------------2017-09-14 14:34:42-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"e1e1634f251654baf4e16731ceef799f","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"60"}\nresponse_data : null\ntimestamp : 2017-09-14 14:34:42
+--------------------------END--------------------------------------------

@@ -1,0 +1,13 @@
+
+--------------------------2017-08-15 00:13:43-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"18946515f267c29d7dca3dc80e5293b8","driver_id":"131","d_is_available":"1","d_device_token":"cfMbOM-KXvw:APA91bFAGA7Wy-bm3aboUVIAoWx6o8f1B2n1CYlvc1jPz2su9-yyZsOOzDx6USkiRe1Iyy9NjNTKc06P2b-fjDYsHM_yMw45g-akWj_rDCOUI-_VhNvsygcBUnuJafEqksUygDSwC8NQ"}\nresponse_data : null\ntimestamp : 2017-08-15 00:13:43
+--------------------------END--------------------------------------------
+--------------------------2017-08-15 00:13:43-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"18946515f267c29d7dca3dc80e5293b8","driver_id":"131","d_is_available":"1","d_device_token":"cfMbOM-KXvw:APA91bFAGA7Wy-bm3aboUVIAoWx6o8f1B2n1CYlvc1jPz2su9-yyZsOOzDx6USkiRe1Iyy9NjNTKc06P2b-fjDYsHM_yMw45g-akWj_rDCOUI-_VhNvsygcBUnuJafEqksUygDSwC8NQ"}\nresponse_data : null\ntimestamp : 2017-08-15 00:13:43
+--------------------------END--------------------------------------------
+--------------------------2017-08-15 00:13:45-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_lng":"3.0606563","d_lat":"36.7743968","api_key":"18946515f267c29d7dca3dc80e5293b8","driver_id":"131"}\nresponse_data : null\ntimestamp : 2017-08-15 00:13:45
+--------------------------END--------------------------------------------
+--------------------------2017-08-15 00:13:45-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_lng":"3.0606563","d_lat":"36.7743968","api_key":"18946515f267c29d7dca3dc80e5293b8","driver_id":"131"}\nresponse_data : null\ntimestamp : 2017-08-15 00:13:45
+--------------------------END--------------------------------------------

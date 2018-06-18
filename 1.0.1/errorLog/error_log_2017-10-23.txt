@@ -1,0 +1,10 @@
+
+--------------------------2017-10-23 14:43:38-------------------------------
+401-\nuser_id : \napi_name : categoryapi/getcategories\nclass_name : CategoryAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-10-23 14:43:38
+--------------------------END--------------------------------------------
+--------------------------2017-10-23 14:47:13-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_email":"sanjeev@gmail.com","d_fname":"Sanjeev","d_lname":"Singh","d_password":"testtest","d_phone":"5332587458"}\nresponse_data : null\ntimestamp : 2017-10-23 14:47:13
+--------------------------END--------------------------------------------
+--------------------------2017-10-23 14:47:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_email":"sanjeev@gmail.com","d_fname":"Sanjeev","d_lname":"Singh","d_password":"testtest","d_phone":"5332587458"}\nresponse_data : null\ntimestamp : 2017-10-23 14:47:29
+--------------------------END--------------------------------------------

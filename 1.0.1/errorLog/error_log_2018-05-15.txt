@@ -1,0 +1,16 @@
+
+--------------------------2018-05-15 23:58:57-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"siboniso.mnikathi@gmail.com","u_password":"khaphela"}\nresponse_data : null\ntimestamp : 2018-05-15 23:58:57
+--------------------------END--------------------------------------------
+--------------------------2018-05-15 23:59:11-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"siboniso.mnikathi@gmail.com","u_password":"khaphela"}\nresponse_data : null\ntimestamp : 2018-05-15 23:59:11
+--------------------------END--------------------------------------------
+--------------------------2018-05-15 23:59:22-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"siboniso.mnikathi@gmail.com","u_password":"Khaphela"}\nresponse_data : null\ntimestamp : 2018-05-15 23:59:22
+--------------------------END--------------------------------------------
+--------------------------2018-05-15 23:59:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"siboniso.mnikathi@gmail.com","u_password":"Khaphela"}\nresponse_data : null\ntimestamp : 2018-05-15 23:59:34
+--------------------------END--------------------------------------------
+--------------------------2018-05-15 23:59:46-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"siboniso.mnikathi@gmail.com"}\nresponse_data : null\ntimestamp : 2018-05-15 23:59:46
+--------------------------END--------------------------------------------

@@ -1,0 +1,262 @@
+
+--------------------------2017-08-22 05:19:17-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","api_key":"ceb4ea32b47b1e64a4d873b5fa7afa9a","trip_pay_status":"Paid","trip_pay_date":"2017\/08\/","trip_pay_mode":"Cash"}\nresponse_data : null\ntimestamp : 2017-08-22 05:19:17
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:19:29-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","api_key":"ceb4ea32b47b1e64a4d873b5fa7afa9a","trip_pay_status":"Paid","trip_pay_date":"2017\/08\/","trip_pay_mode":"Cash"}\nresponse_data : null\ntimestamp : 2017-08-22 05:19:29
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:35:57-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"a08e1c965c8bad4c89e72fea3c1a85d8","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"3"}\nresponse_data : null\ntimestamp : 2017-08-22 05:35:57
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:52:40-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"klein@gmail.con","u_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-22 05:52:40
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:53:51-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"raj@gmail.com","u_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-22 05:53:51
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:55:55-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"testdriver@gmail.com","d_password":"teat"}\nresponse_data : null\ntimestamp : 2017-08-22 05:55:55
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:56:05-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"testdriver@gmail.com","d_password":"teat123"}\nresponse_data : null\ntimestamp : 2017-08-22 05:56:05
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 05:57:41-------------------------------
+400-Too late! Trip assign to another driver\nuser_id : \napi_name : tripapi/tripaccept\nclass_name : TripAPI\naction_name : postTripAccept\nrequested_data : {"trip_id":"108","trip_status":"accept","api_key":"646636b9f0d4c7de5511d53d2487bd11","driver_id":"36"}\nresponse_data : null\ntimestamp : 2017-08-22 05:57:41
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:02:27-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:02:27
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:02:37-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:02:37
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:02:40-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:02:40
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:00-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:00
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:02-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:02
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:05-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:05
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:14-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:20-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:20
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:23-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:23
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:49-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:49
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:52-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:52
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:03:55-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:03:55
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:06:09-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 06:06:09
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:21:08-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"4636e7f9daecc3db8de564cb851e8a68","d_email":"cat@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-22 06:21:08
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:21:17-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"4636e7f9daecc3db8de564cb851e8a68","d_email":"cat@gmail.com","d_password":"122"}\nresponse_data : null\ntimestamp : 2017-08-22 06:21:17
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:21:33-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"4636e7f9daecc3db8de564cb851e8a68","d_email":"cat@gmail.com","d_password":"teattest"}\nresponse_data : null\ntimestamp : 2017-08-22 06:21:33
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:49:03-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"115","trip_status":"begin","api_key":"3aef91579bb00758cac9b0b1cbe8ae33"}\nresponse_data : null\ntimestamp : 2017-08-22 06:49:03
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:53:34-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:23:30","trip_scheduled_pick_lat":"28.605888","trip_distance":"10.56","trip_scheduled_pick_lng":"77.1866","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 06:53:34
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:53:39-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:23:39","trip_scheduled_pick_lat":"28.605888","trip_distance":"10.56","trip_scheduled_pick_lng":"77.1866","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 06:53:39
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:53:56-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:23:56","trip_scheduled_pick_lat":"28.605888","trip_distance":"10.56","trip_scheduled_pick_lng":"77.1866","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 06:53:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 06:56:24-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:26:23","trip_scheduled_pick_lat":"28.535597","trip_distance":"21.12","trip_scheduled_pick_lng":"77.259476","trip_pay_amount":"105.59","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 06:56:24
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:01:31-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","trip_pay_date":"2017\/08\/","trip_pay_status":"Paid","api_key":"f027a304eb4ffcb96c36de1908d7e6c3"}\nresponse_data : null\ntimestamp : 2017-08-22 07:01:31
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:01:39-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","trip_pay_date":"2017\/08\/","trip_pay_status":"Paid","api_key":"f027a304eb4ffcb96c36de1908d7e6c3"}\nresponse_data : null\ntimestamp : 2017-08-22 07:01:39
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:01:57-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","trip_pay_date":"2017\/08\/","trip_pay_status":"Paid","api_key":"f027a304eb4ffcb96c36de1908d7e6c3"}\nresponse_data : null\ntimestamp : 2017-08-22 07:01:57
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:02:00-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","trip_pay_date":"2017\/08\/","trip_pay_status":"Paid","api_key":"f027a304eb4ffcb96c36de1908d7e6c3"}\nresponse_data : null\ntimestamp : 2017-08-22 07:02:00
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:02:14-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","promo_id":"2","trip_promo_amt":"0.00","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_date":"2017\/08\/","trip_promo_code":"DCP","trip_pay_status":"Paid"}\nresponse_data : null\ntimestamp : 2017-08-22 07:02:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:03:19-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:33:18","trip_scheduled_pick_lat":"28.605888","trip_distance":"10.56","trip_scheduled_pick_lng":"77.1866","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:03:19
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:03:36-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:33:35","trip_scheduled_pick_lat":"28.535654","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25945","trip_pay_amount":"105.56","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:03:36
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:05:59-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:35:58","trip_scheduled_pick_lat":"28.53567","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25944","trip_pay_amount":"105.54","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:05:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:06:20-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:36:19","trip_scheduled_pick_lat":"28.535696","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25943","trip_pay_amount":"105.53","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:06:20
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:08:02-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:38:01","trip_scheduled_pick_lat":"28.535637","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25946","trip_pay_amount":"105.56","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:08:02
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:08:18-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:38:17","trip_scheduled_pick_lat":"28.535696","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25943","trip_pay_amount":"105.53","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:08:18
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:08:23-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 12:38:22","trip_scheduled_pick_lat":"28.535696","trip_distance":"21.11","trip_scheduled_pick_lng":"77.25943","trip_pay_amount":"105.53","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 07:08:23
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:21:58-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53561210632324","d_lng":"77.25957489013672","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 07:21:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:35:57-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","trip_pay_mode":"Cash","trip_pay_date":"2017\/08\/","trip_pay_status":"Paid","api_key":"f027a304eb4ffcb96c36de1908d7e6c3"}\nresponse_data : null\ntimestamp : 2017-08-22 07:35:57
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:42:29-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559875488281","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 07:42:29
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:52:02-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","driver_id":"17","d_is_available":"1","d_device_token":"eB1GqKH_MPs:APA91bEWbbGQjmZZAlrqpsP2bdywM76hVI5i8t-kNdtnEdNbXvAbB8QUkF5TWZ7om2KpN2lOvkN9QNFkQGAmJPio6zLI2xzhiScXZGTBmotiWI0bsiBbYSctySChbj2qDUmL1hMQXbHR"}\nresponse_data : null\ntimestamp : 2017-08-22 07:52:02
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:52:59-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 07:52:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 07:56:38-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 07:56:38
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:00:49-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559875488281","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:00:49
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:02:58-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:02:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:03:00-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:03:00
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:05:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:05:09
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:08:24-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:08:24
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 08:28:29-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53558921813965","d_lng":"77.25960540771484","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 08:28:29
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:23:36-------------------------------
+400-Too late! That phone number is being used\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_lname":"Smith","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","d_phone":"9855855555","driver_id":"17","is_send_email":"1","d_fname":"Ram"}\nresponse_data : null\ntimestamp : 2017-08-22 09:23:36
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:23:42-------------------------------
+400-Too late! That phone number is being used\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_lname":"Smith","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","d_phone":"9855855555","driver_id":"17","is_send_email":"1","d_fname":"Ram"}\nresponse_data : null\ntimestamp : 2017-08-22 09:23:42
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:48:40-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:48:40
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:52:33-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:52:33
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:54:36-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_device_token":"9bc35b6399b61907df95fce8e823e1dea034450a98e26ee632309c5cd597e116","d_device_type":"ios","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:54:36
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:54:43-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:54:43
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:58:59-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:58:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 09:59:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559875488281","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 09:59:21
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:01:56-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"388807a89afe0e329efbba9ffadfb669","d_is_available":"1","d_lat":"28.53559875488281","d_lng":"77.25959777832031","driver_id":"35"}\nresponse_data : null\ntimestamp : 2017-08-22 10:01:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:20:03-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 15:50:02","trip_scheduled_pick_lat":"28.605906","trip_distance":"10.56","trip_scheduled_pick_lng":"77.18661","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 10:20:03
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:20:08-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_drop_lng":"77.113716","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India","trip_searched_addr":"bharat","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 15:50:07","trip_scheduled_pick_lat":"28.605906","trip_distance":"10.56","trip_scheduled_pick_lng":"77.18661","trip_pay_amount":"52.78","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","driver_id":"35","user_id":"12"}\nresponse_data : null\ntimestamp : 2017-08-22 10:20:08
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:49:24-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-22 10:49:24
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:53:55-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"testdriver@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-22 10:53:55
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 10:54:06-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"testdriver@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-22 10:54:06
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 11:24:54-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"d_degree":"176.555","d_device_type":"Android","api_key":"3aef91579bb00758cac9b0b1cbe8ae33","driver_id":"17","d_is_available":"1","d_device_token":"c_Ux_tQNiTE:APA91bH-C6BxQPeaD45F6Qf_9RDYfDaHfcEUXpxhncfUxpIbuTC-Uc2KJINEXaPGrpYk8nDzdibfJUbkAjRxQ_F_aI-jw2u0Mb5f5pDxOuDZDZNfWidi9k7uWmE78YO0VafUh-XMmzVK"}\nresponse_data : null\ntimestamp : 2017-08-22 11:24:54
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 11:33:36-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-22 11:33:36
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:03:44-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:33:43","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:03:44
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:03:50-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:33:49","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:03:50
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:03:56-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:33:55","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:03:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:04:43-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"Sorry! Internet connection is too weak.","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:34:42","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:04:43
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:04:59-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.25943","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"Sorry! Internet connection is too weak.","trip_distance":"21.11","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:34:58","trip_scheduled_pick_lat":"28.535696","trip_pay_amount":"105.53","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:04:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:05:56-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.25943","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"Sorry! Internet connection is too weak.","trip_distance":"21.11","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:35:55","trip_scheduled_pick_lat":"28.535696","trip_pay_amount":"105.53","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:05:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:07:14-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:37:13","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:07:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:07:19-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:37:18","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:07:19
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:07:44-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.186615","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"J-88, Pocket 52, J-Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.55","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 17:37:43","trip_scheduled_pick_lat":"28.60594","trip_pay_amount":"52.77","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:07:44
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:23:40-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"testuser@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-22 12:23:40
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:23:53-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"testuser@gmail.com","d_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-22 12:23:53
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:38:58-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"503","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","trip_pay_status":"Paid","trip_pay_date":"2017\/08\/","trip_pay_mode":"Cash"}\nresponse_data : null\ntimestamp : 2017-08-22 12:38:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:39:27-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.18657","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.56","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 18:09:26","trip_scheduled_pick_lat":"28.605816","trip_pay_amount":"52.80","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:39:27
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:39:33-------------------------------
+400-\nuser_id : \napi_name : tripapi/save\nclass_name : TripAPI\naction_name : postSave\nrequested_data : {"trip_scheduled_pick_lng":"77.18657","trip_scheduled_drop_lng":"77.113716","trip_scheduled_drop_lat":"28.676163","trip_status":"Request","trip_searched_addr":"bharat","api_key":"f027a304eb4ffcb96c36de1908d7e6c3","driver_id":"35","trip_from_loc":"Mall Road, Pocket 52, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019, India","trip_distance":"10.56","trip_search_result_addr":"A 4, Rohtak Road, Paschim Vihar, Delhi, 110063, India","trip_date":"2017\/08\/22 18:09:32","trip_scheduled_pick_lat":"28.605816","trip_pay_amount":"52.80","user_id":"12","trip_to_loc":"Bharati Vidyapeeth's College of Engineering, Delhi, India"}\nresponse_data : null\ntimestamp : 2017-08-22 12:39:33
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 12:40:31-------------------------------
+400-\nuser_id : \napi_name : tripapi/updatetrip\nclass_name : TripAPI\naction_name : postUpdateTrip\nrequested_data : {"trip_id":"148","trip_status":"end","api_key":"3aef91579bb00758cac9b0b1cbe8ae33"}\nresponse_data : null\ntimestamp : 2017-08-22 12:40:31
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 15:36:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"wchathuranga@hotmail.com","u_password":"1985613"}\nresponse_data : null\ntimestamp : 2017-08-22 15:36:05
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 15:58:12-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"86d9ebe2f820d27bce77d185a87f6468","d_is_available":"0","driver_id":"42"}\nresponse_data : null\ntimestamp : 2017-08-22 15:58:12
+--------------------------END--------------------------------------------
+--------------------------2017-08-22 16:20:54-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"86d9ebe2f820d27bce77d185a87f6468","d_is_available":"1","d_lat":"6.93846607208252","d_lng":"79.86328887939453","driver_id":"42"}\nresponse_data : null\ntimestamp : 2017-08-22 16:20:54
+--------------------------END--------------------------------------------

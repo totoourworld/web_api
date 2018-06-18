@@ -1,0 +1,70 @@
+
+--------------------------2018-06-12 09:36:13-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"callapj.venter@gmail.com","u_password":"5301"}\nresponse_data : null\ntimestamp : 2018-06-12 09:36:13
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:36:55-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"callapj.venter@gmail.com","u_password":"Callavent5"}\nresponse_data : null\ntimestamp : 2018-06-12 09:36:55
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:39:11-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"callapj.venter@gmail.com","u_password":"allaCvent1"}\nresponse_data : null\ntimestamp : 2018-06-12 09:39:11
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:40:24-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kitst1709"}\nresponse_data : null\ntimestamp : 2018-06-12 09:40:24
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:40:41-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709\/"}\nresponse_data : null\ntimestamp : 2018-06-12 09:40:41
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:41:06-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"callapj.venter@gmail.com","u_password":"allaKvent1"}\nresponse_data : null\ntimestamp : 2018-06-12 09:41:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:41:36-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"Callapj.venter@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-12 09:41:36
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 09:43:00-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"callapj.venter@gmail.com","u_password":"allaCvent1"}\nresponse_data : null\ntimestamp : 2018-06-12 09:43:00
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 14:02:17-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 14:02:17
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 14:02:25-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 14:02:25
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 14:02:51-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 14:02:51
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 15:26:36-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 15:26:36
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 21:38:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 21:38:46
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 21:39:02-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 21:39:02
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 21:58:12-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 21:58:12
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:56:38-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:56:38
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:56:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:56:45
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:57:45-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"ccrPqLTqGIM:APA91bGMxMD41hRQZn0gIQAFC5qb75yubUmMBvGES4ZyYmdlKnxKiCJ4X5F090568wyf9nUewz01L381G4fPdsI5OZdRkkT9m4T8-sJodCqVuRNQ0OPaASS6Hwr4wY5_xIHmNjQ7Jqau","u_fbid":"2055426618111108","u_device_type":"Android","u_fname":"Francisco","u_lname":"Mendez","u_phone":"+34672924603","u_email":"fransineros@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2018-06-12 22:57:45
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:58:02-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:58:02
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:58:06-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:58:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:58:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:58:46
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:58:50-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:58:50
+--------------------------END--------------------------------------------
+--------------------------2018-06-12 22:59:10-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"fransineros@gmail.com","u_password":"cn78Whte@@@"}\nresponse_data : null\ntimestamp : 2018-06-12 22:59:10
+--------------------------END--------------------------------------------

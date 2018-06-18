@@ -1,0 +1,34 @@
+
+--------------------------2017-08-31 10:39:28-------------------------------
+400-This Car Already Registered\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"fce047576e9937b07c8535033ed96962","car_make":"Austin","car_model":"2017","car_name":"Mini Cooper S","car_reg_no":"hfsty","category_id":"2","driver_id":"54"}\nresponse_data : null\ntimestamp : 2017-08-31 10:39:28
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 10:50:37-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"fce047576e9937b07c8535033ed96962","d_is_available":"1","d_lat":"28.53559573019544","d_lng":"77.25959489834085","driver_id":"54"}\nresponse_data : null\ntimestamp : 2017-08-31 10:50:37
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:44:31-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"ad196729de2b5b70b1f79f5bbecbf37e"}\nresponse_data : null\ntimestamp : 2017-08-31 12:44:31
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:46:28-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"riser@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-31 12:46:28
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:46:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"riser@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-31 12:46:34
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:46:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-31 12:46:42
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:46:49-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-31 12:46:49
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:46:56-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-31 12:46:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:47:03-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-31 12:47:03
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 12:47:12-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"test@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-31 12:47:12
+--------------------------END--------------------------------------------
+--------------------------2017-08-31 13:12:19-------------------------------
+401-\nuser_id : \napi_name : constantapi/getconstants\nclass_name : ConstantAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-08-31 13:12:19
+--------------------------END--------------------------------------------

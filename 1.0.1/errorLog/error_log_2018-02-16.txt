@@ -1,0 +1,13 @@
+
+--------------------------2018-02-16 07:21:51-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-02-16 07:21:51
+--------------------------END--------------------------------------------
+--------------------------2018-02-16 09:32:08-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"christabelonuoha@gmail.com","u_password":"B\u00a3(0m!ng"}\nresponse_data : null\ntimestamp : 2018-02-16 09:32:08
+--------------------------END--------------------------------------------
+--------------------------2018-02-16 20:50:15-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"femfav@hotmail.com"}\nresponse_data : null\ntimestamp : 2018-02-16 20:50:15
+--------------------------END--------------------------------------------
+--------------------------2018-02-16 20:50:24-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"femfav@hotmail.com"}\nresponse_data : null\ntimestamp : 2018-02-16 20:50:24
+--------------------------END--------------------------------------------

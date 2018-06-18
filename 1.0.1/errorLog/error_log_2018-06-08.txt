@@ -1,0 +1,25 @@
+
+--------------------------2018-06-08 14:22:50-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"castlelea1@bigpond.com","d_password":"jbwy4ugn"}\nresponse_data : null\ntimestamp : 2018-06-08 14:22:50
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:13:13-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"obasip71@gmail.com","d_password":"peterp"}\nresponse_data : null\ntimestamp : 2018-06-08 20:13:13
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:13:22-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"obasip71@gmail.com","d_password":"peterp"}\nresponse_data : null\ntimestamp : 2018-06-08 20:13:22
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:49:35-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"d7c5372542df7ce31351c956e80bf597","d_email":"idmcsamuel@gmail.com","d_password":"jemuel"}\nresponse_data : null\ntimestamp : 2018-06-08 20:49:35
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:49:52-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"d7c5372542df7ce31351c956e80bf597","d_email":"idmcsamuel@gmail.com","d_password":"jemuel5891"}\nresponse_data : null\ntimestamp : 2018-06-08 20:49:52
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:50:06-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"d7c5372542df7ce31351c956e80bf597","d_email":"idmcsamuel@gmail.com","d_password":"Jemuel5891"}\nresponse_data : null\ntimestamp : 2018-06-08 20:50:06
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 20:50:24-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"d7c5372542df7ce31351c956e80bf597","d_email":"idmcsamuel@gmail.com","d_password":"Tidara5891"}\nresponse_data : null\ntimestamp : 2018-06-08 20:50:24
+--------------------------END--------------------------------------------
+--------------------------2018-06-08 22:40:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"obasip71@gmail.com","u_password":"peterp"}\nresponse_data : null\ntimestamp : 2018-06-08 22:40:05
+--------------------------END--------------------------------------------

@@ -1,0 +1,124 @@
+
+--------------------------2017-09-05 06:33:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 06:33:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 07:13:18-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"91ba1ca0a152320d0bdf685339fbbaa0"}\nresponse_data : null\ntimestamp : 2017-09-05 07:13:18
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 07:54:41-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"19.01761436462402","d_lng":"72.85616302490234","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 07:54:41
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 07:55:49-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"19.01761436462402","d_lng":"72.85616302490234","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 07:55:49
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:20:00-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"86a0700f6d91a04729ddc86b69552f57"}\nresponse_data : null\ntimestamp : 2017-09-05 09:20:00
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:20:24-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 09:20:24
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:37:51-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 09:37:51
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:38:04-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559551601785","d_lng":"77.25959589956091","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 09:38:04
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:38:36-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.5355952558647","d_lng":"77.25959617890622","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 09:38:36
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 09:44:00-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 09:44:00
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 11:26:58-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"4a1a97021b6f51f6b746e528b48f8dd5"}\nresponse_data : null\ntimestamp : 2017-09-05 11:26:58
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 11:36:43-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"4a1a97021b6f51f6b746e528b48f8dd5"}\nresponse_data : null\ntimestamp : 2017-09-05 11:36:43
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 11:37:09-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53560447692871","d_lng":"77.25959014892578","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 11:37:09
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 11:43:03-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54269981384277","d_lng":"77.2529296875","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 11:43:03
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 11:53:22-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54269981384277","d_lng":"77.2529296875","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 11:53:22
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:23:39-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54269981384277","d_lng":"77.2529296875","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 12:23:39
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:36:07-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54269981384277","d_lng":"77.2529296875","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 12:36:07
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:40:06-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 12:40:06
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:43:25-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"trip_id":"287"}\nresponse_data : null\ntimestamp : 2017-09-05 12:43:25
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:43:26-------------------------------
+401-\nuser_id : \napi_name : tripapi/gettrips\nclass_name : TripAPI\naction_name : \nrequested_data : {"trip_id":"287"}\nresponse_data : null\ntimestamp : 2017-09-05 12:43:26
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:53:19-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 12:53:19
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:53:21-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53559494018555","d_lng":"77.25959777832031","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 12:53:21
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:54:34-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"91ba1ca0a152320d0bdf685339fbbaa0"}\nresponse_data : null\ntimestamp : 2017-09-05 12:54:34
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 12:54:50-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-09-05 12:54:50
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:23:11-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 13:23:11
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:40:30-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 13:40:30
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:41:23-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 13:41:23
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:57:35-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"4a1a97021b6f51f6b746e528b48f8dd5"}\nresponse_data : null\ntimestamp : 2017-09-05 13:57:35
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:57:57-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 13:57:57
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 13:58:31-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 13:58:31
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:01:14-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"fce047576e9937b07c8535033ed96962","d_is_available":"1","d_lat":"28.53559494018555","d_lng":"77.25959777832031","driver_id":"54"}\nresponse_data : null\ntimestamp : 2017-09-05 14:01:14
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:05:40-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"fce047576e9937b07c8535033ed96962","d_is_available":"0","d_lat":"28.53559684753418","d_lng":"77.25959777832031","driver_id":"54"}\nresponse_data : null\ntimestamp : 2017-09-05 14:05:40
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:06:08-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:06:08
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:19:20-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:19:20
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:19:52-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53977966308594","d_lng":"77.25882720947266","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:19:52
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:32:32-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53960990905762","d_lng":"77.25901794433594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:32:32
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:32:57-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53960990905762","d_lng":"77.25901794433594","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:32:57
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:40:45-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54385948181152","d_lng":"77.25137329101562","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:40:45
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:42:30-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.53976058959961","d_lng":"77.25884246826172","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:42:30
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:45:08-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.54265022277832","d_lng":"77.25269317626953","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:45:08
+--------------------------END--------------------------------------------
+--------------------------2017-09-05 14:48:11-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"b16eb7543c865a8b38e8f2f59e354a34","d_is_available":"1","d_lat":"28.5517406463623","d_lng":"77.24738311767578","driver_id":"44"}\nresponse_data : null\ntimestamp : 2017-09-05 14:48:11
+--------------------------END--------------------------------------------

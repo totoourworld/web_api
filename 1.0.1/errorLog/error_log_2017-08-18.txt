@@ -1,0 +1,7 @@
+
+--------------------------2017-08-18 17:51:04-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"alecburns@msn.com","u_password":"BucketList1"}\nresponse_data : null\ntimestamp : 2017-08-18 17:51:04
+--------------------------END--------------------------------------------
+--------------------------2017-08-18 17:51:34-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"10211702919463113"}\nresponse_data : null\ntimestamp : 2017-08-18 17:51:34
+--------------------------END--------------------------------------------

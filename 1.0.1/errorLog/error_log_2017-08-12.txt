@@ -1,0 +1,52 @@
+
+--------------------------2017-08-12 05:32:07-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:32:07
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:32:25-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:32:25
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:35:59-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:35:59
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:06-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"test@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:06
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:15-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"test@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:15
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:23-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"test1@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:23
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:34
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:41-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:41
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:37:53-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"test1@gmail.com","u_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-12 05:37:53
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:39:21-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:39:21
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:41:39-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:41:39
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 05:43:19-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"33db47764e2176d1d842b87c62bf05bc"}\nresponse_data : null\ntimestamp : 2017-08-12 05:43:19
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 07:44:14-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"ee059a1e2596c265fd61c44f1855875e"}\nresponse_data : null\ntimestamp : 2017-08-12 07:44:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 07:58:28-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"ee059a1e2596c265fd61c44f1855875e"}\nresponse_data : null\ntimestamp : 2017-08-12 07:58:28
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 08:05:04-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"test@gmail.com","d_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-08-12 08:05:04
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 08:05:11-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"ee059a1e2596c265fd61c44f1855875e"}\nresponse_data : null\ntimestamp : 2017-08-12 08:05:11
+--------------------------END--------------------------------------------
+--------------------------2017-08-12 15:51:31-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"1834464173534031"}\nresponse_data : null\ntimestamp : 2017-08-12 15:51:31
+--------------------------END--------------------------------------------

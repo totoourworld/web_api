@@ -1,0 +1,10 @@
+
+--------------------------2018-05-03 00:58:33-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"jkagiso77@gmail.com","u_password":"monnanogolo"}\nresponse_data : null\ntimestamp : 2018-05-03 00:58:33
+--------------------------END--------------------------------------------
+--------------------------2018-05-03 00:58:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"jkagiso77@gmail.com","u_password":"monnanogolo"}\nresponse_data : null\ntimestamp : 2018-05-03 00:58:42
+--------------------------END--------------------------------------------
+--------------------------2018-05-03 00:59:07-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"jkagiso77@gmail.com"}\nresponse_data : null\ntimestamp : 2018-05-03 00:59:07
+--------------------------END--------------------------------------------

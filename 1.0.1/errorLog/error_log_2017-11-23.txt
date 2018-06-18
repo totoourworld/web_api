@@ -1,0 +1,22 @@
+
+--------------------------2017-11-23 02:45:14-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"super2lao@gmail.com","d_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2017-11-23 02:45:14
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 02:45:28-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"super2lao@gmail.com","d_password":"kkkkkk"}\nresponse_data : null\ntimestamp : 2017-11-23 02:45:28
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 11:43:09-------------------------------
+400-Invalid Driver.\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : postGetDrivers\nrequested_data : {"api_key":"314951a423f00b46e55aad7a7809fe87"}\nresponse_data : null\ntimestamp : 2017-11-23 11:43:09
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 11:43:12-------------------------------
+400-Invalid Driver.\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : postGetDrivers\nrequested_data : {"api_key":"314951a423f00b46e55aad7a7809fe87"}\nresponse_data : null\ntimestamp : 2017-11-23 11:43:12
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 15:09:02-------------------------------
+400-Invalid Driver.\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : postGetDrivers\nrequested_data : {"api_key":"314951a423f00b46e55aad7a7809fe87"}\nresponse_data : null\ntimestamp : 2017-11-23 15:09:02
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 23:22:58-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"1f8cf239826d810ca444f161d772f3e1","d_email":"b.somda@listeur.com","d_password":"Skoop#321"}\nresponse_data : null\ntimestamp : 2017-11-23 23:22:58
+--------------------------END--------------------------------------------
+--------------------------2017-11-23 23:23:14-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"api_key":"1f8cf239826d810ca444f161d772f3e1","d_email":"dog.beifa@gmail.com","d_password":"Skoop#321"}\nresponse_data : null\ntimestamp : 2017-11-23 23:23:14
+--------------------------END--------------------------------------------

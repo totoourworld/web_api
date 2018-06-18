@@ -1,0 +1,16 @@
+
+--------------------------2017-11-27 08:05:57-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"21571f1e88449bffbe6024f316465ad2","d_is_available":"1","driver_id":"16"}\nresponse_data : null\ntimestamp : 2017-11-27 08:05:57
+--------------------------END--------------------------------------------
+--------------------------2017-11-27 08:06:30-------------------------------
+400-\nuser_id : \napi_name : userapi/updateuserprofile\nclass_name : UserAPI\naction_name : postUpdateUserProfile\nrequested_data : {"api_key":"8af01f9df9d777e9b8efc5464905c908","u_is_available":"0","user_id":"82"}\nresponse_data : null\ntimestamp : 2017-11-27 08:06:30
+--------------------------END--------------------------------------------
+--------------------------2017-11-27 08:06:36-------------------------------
+400-\nuser_id : \napi_name : userapi/updateuserprofile\nclass_name : UserAPI\naction_name : postUpdateUserProfile\nrequested_data : {"api_key":"8af01f9df9d777e9b8efc5464905c908","u_is_available":"0","user_id":"82"}\nresponse_data : null\ntimestamp : 2017-11-27 08:06:36
+--------------------------END--------------------------------------------
+--------------------------2017-11-27 08:06:40-------------------------------
+400-Invalid User.\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : postGetUsers\nrequested_data : {"api_key":"8af01f9df9d777e9b8efc5464905c908"}\nresponse_data : null\ntimestamp : 2017-11-27 08:06:40
+--------------------------END--------------------------------------------
+--------------------------2017-11-27 10:45:14-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"21571f1e88449bffbe6024f316465ad2","d_is_available":"1","driver_id":"16"}\nresponse_data : null\ntimestamp : 2017-11-27 10:45:14
+--------------------------END--------------------------------------------

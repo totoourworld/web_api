@@ -1,0 +1,13 @@
+
+--------------------------2017-08-11 07:10:42-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"passenger@gmail.com","u_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-11 07:10:42
+--------------------------END--------------------------------------------
+--------------------------2017-08-11 07:11:14-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"passenger@gmail.com","u_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-11 07:11:14
+--------------------------END--------------------------------------------
+--------------------------2017-08-11 07:11:33-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"passenger@gmail.com","u_password":"test"}\nresponse_data : null\ntimestamp : 2017-08-11 07:11:33
+--------------------------END--------------------------------------------
+--------------------------2017-08-11 07:12:12-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"driver@gmail.com","d_password":"test12"}\nresponse_data : null\ntimestamp : 2017-08-11 07:12:12
+--------------------------END--------------------------------------------

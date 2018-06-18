@@ -1,0 +1,13 @@
+
+--------------------------2018-05-21 11:54:02-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"sohanakamlesh"}\nresponse_data : null\ntimestamp : 2018-05-21 11:54:02
+--------------------------END--------------------------------------------
+--------------------------2018-05-21 11:54:06-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"sohanakamlesh"}\nresponse_data : null\ntimestamp : 2018-05-21 11:54:06
+--------------------------END--------------------------------------------
+--------------------------2018-05-21 11:54:09-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"sohanakamlesh"}\nresponse_data : null\ntimestamp : 2018-05-21 11:54:09
+--------------------------END--------------------------------------------
+--------------------------2018-05-21 11:54:47-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"d0S3xRqheU8:APA91bEXEGr-9sWYczB9RJSe4tU7m-UjTQG6mQRwRH6ZY3AfimMsvJeYqQysKosqSnf580bYQ7YiZ81CqO8RTJAassKNINrKcHHv92kikz9TqiGKPdODmgSIZ90u34t4aC1Dl8MIOsF8","u_device_type":"Android","u_fname":"kamlesh","u_phone":"8141264694","u_email":"dashrathchavda2011@gmail.com","u_password":"kamleshsohana"}\nresponse_data : null\ntimestamp : 2018-05-21 11:54:47
+--------------------------END--------------------------------------------

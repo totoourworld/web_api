@@ -1,0 +1,25 @@
+
+--------------------------2018-02-15 11:06:47-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"","u_phone":"","u_email":"6IGUORZJMKDA3KCB5NCCQHEDHU-00@cloudtestlabaccounts.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:06:47
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:07:02-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"etdEGA6jslw:APA91bEzVRMxVt9khaDrmLtNF8zp--ecdZkw4oiSJZ31LvzN8-pPRU9dqgjrAX_bGvBsBMgbjtJlHwAH8cXsyyFS0Crm-MFrzeB-obAzML_laE2oduZA8qZBBVU4a5WFCur-mRp-LG4I","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"6IGUORZJMKDA3KCB5NCCQHEDHU-00@cloudtestlabaccounts.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:07:02
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:07:21-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"dxl3m4O2OJU:APA91bHKSAadMGI5cqkVMWGxkJe9oDJk9NOnAsqor5Q45bMD1WC1f7s2fYnonfUIltlVph9nJhfXj3Us6ZlmY2DTYYwhSpfXeqAp-X82mRSPcPW2NlGKFnx_UMI5Coxfpw-i_5FzC60_","u_device_type":"Android","u_fname":"","u_phone":"5555555555","u_email":"6IGUORZJMKDA3KCB5NCCQHEDHU-00@cloudtestlabaccounts.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:07:21
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:07:46-------------------------------
+400-please enter your password\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"cm4h3h66qG4:APA91bFvAXKLJ0iHzhdn75G1WsxJYrgaSoJHDrPwo1Goihqv22GoIBOD5k-Q3fQfguDS-WggbdteTgIySm_x5hxhTmXvF5vPjgz4oRo_K_pxGDfiAMl7qfLlZ-ZVVq8vZMnZI1LT6ica","u_device_type":"Android","u_fname":"text","u_phone":"5555555555","u_email":"text","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:07:46
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:07:58-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"","u_phone":"","u_email":"6IGUORZJMKDA3KCB5NCCQHEDHU-00@cloudtestlabaccounts.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:07:58
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:07:59-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"dSOx-S-Z7Qc:APA91bF718NyFDM5_4J1r8ejIs7hzrGDHbrOndh5uCumgDHiakvK_a3GutatffjnFGo113-cSHgIDq24-TI-GObJZRp3OT7tHCdV586omqvbP4SgUBdLBhvD9cWbrGNzHv4FFFb_BT7W","u_device_type":"Android","u_fname":"","u_phone":"5555555555","u_email":"text","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:07:59
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 11:15:19-------------------------------
+400-please enter your first name\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fbE3AbC8fCQ:APA91bFFXOIV0xZkvvGm7FmFlEHNoMvlDc8jrGRiUKGUk-8ZCdfvJN-fLxkjJ6gU8ZV2DJIVLMVjbannEQBv9BvqejwSHVhhLD6zZtV8r9_bjHFm7AH6dNjRMLWjPoZIY792EO_LqIOw","u_device_type":"Android","u_fname":"","u_phone":"","u_email":"6IGUORZJMKDA3KCB5NCCQHEDHU-00@cloudtestlabaccounts.com","u_password":""}\nresponse_data : null\ntimestamp : 2018-02-15 11:15:19
+--------------------------END--------------------------------------------
+--------------------------2018-02-15 15:31:27-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"idmcsamuel@gmail.com","u_password":"jemuel"}\nresponse_data : null\ntimestamp : 2018-02-15 15:31:27
+--------------------------END--------------------------------------------

@@ -1,0 +1,13 @@
+
+--------------------------2018-02-26 15:28:12-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"mufaro.machimbidzofa@gmail.com","d_password":"VACHIWESHE@1988"}\nresponse_data : null\ntimestamp : 2018-02-26 15:28:12
+--------------------------END--------------------------------------------
+--------------------------2018-02-26 15:28:30-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"mufaro.machimbidzofa@gmail.com","d_password":"VACHIWESHE@1988"}\nresponse_data : null\ntimestamp : 2018-02-26 15:28:30
+--------------------------END--------------------------------------------
+--------------------------2018-02-26 18:17:32-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-02-26 18:17:32
+--------------------------END--------------------------------------------
+--------------------------2018-02-26 20:31:39-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-02-26 20:31:39
+--------------------------END--------------------------------------------

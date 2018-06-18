@@ -1,0 +1,16 @@
+
+--------------------------2018-05-14 16:48:51-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"lovethterry@gmail.com","d_password":"elizabeth1127"}\nresponse_data : null\ntimestamp : 2018-05-14 16:48:51
+--------------------------END--------------------------------------------
+--------------------------2018-05-14 16:49:15-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"lovethterry@gmail.com","d_password":"elizabeth1127"}\nresponse_data : null\ntimestamp : 2018-05-14 16:49:15
+--------------------------END--------------------------------------------
+--------------------------2018-05-14 16:49:58-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_is_available":"1","d_email":"lovethterry@gmail.com","d_password":"elizabeth1127"}\nresponse_data : null\ntimestamp : 2018-05-14 16:49:58
+--------------------------END--------------------------------------------
+--------------------------2018-05-14 16:51:11-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"lovethterry@gmail.com","u_password":"elizabeth1127"}\nresponse_data : null\ntimestamp : 2018-05-14 16:51:11
+--------------------------END--------------------------------------------
+--------------------------2018-05-14 16:51:22-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"lovethterry@gmail.com","u_password":"Elizabeth1127"}\nresponse_data : null\ntimestamp : 2018-05-14 16:51:22
+--------------------------END--------------------------------------------

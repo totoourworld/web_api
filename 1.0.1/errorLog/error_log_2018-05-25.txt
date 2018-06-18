@@ -1,0 +1,19 @@
+
+--------------------------2018-05-25 15:10:25-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"kamleshchavda2720@gmail.com","u_password":"kamleshaohana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:10:25
+--------------------------END--------------------------------------------
+--------------------------2018-05-25 15:10:38-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"kamleshchavda2720@gmail.com","u_password":"kamleshaohana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:10:38
+--------------------------END--------------------------------------------
+--------------------------2018-05-25 15:11:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"kamleshaohana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:11:20
+--------------------------END--------------------------------------------
+--------------------------2018-05-25 15:11:24-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"kamleshaohana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:11:24
+--------------------------END--------------------------------------------
+--------------------------2018-05-25 15:11:40-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"dashrathchavda2011@gmail.com","u_password":"kamleshaohana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:11:40
+--------------------------END--------------------------------------------
+--------------------------2018-05-25 15:12:24-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"d0S3xRqheU8:APA91bEXEGr-9sWYczB9RJSe4tU7m-UjTQG6mQRwRH6ZY3AfimMsvJeYqQysKosqSnf580bYQ7YiZ81CqO8RTJAassKNINrKcHHv92kikz9TqiGKPdODmgSIZ90u34t4aC1Dl8MIOsF8","u_device_type":"Android","u_fname":"kamlesh","u_phone":"8141264694","u_email":"dashrathchavda2011@gmail.com","u_password":"kamleshsobana"}\nresponse_data : null\ntimestamp : 2018-05-25 15:12:24
+--------------------------END--------------------------------------------

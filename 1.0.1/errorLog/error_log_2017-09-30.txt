@@ -1,0 +1,13 @@
+
+--------------------------2017-09-30 14:17:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"banik","d_device_type":"Android","d_phone":"9954713142","d_device_token":"dwQ7qQ0TqEE:APA91bH6nbkNRWs_kHXo31gAuCQ7zUPnRu9ha2YnmzHHN5ByoEG74te9jGmL5eLD4Sj930x25lqkgeayO2lgC0lDmOCZwHz0GTjEYvGMqXxLrxIZLY7lzZQNweSJHuvzjG26wNxxT30P","d_password":"123456","d_email":"vickybanik1@gmail.com","d_fname":"abhijit"}\nresponse_data : null\ntimestamp : 2017-09-30 14:17:29
+--------------------------END--------------------------------------------
+--------------------------2017-09-30 15:41:05-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"9a5928309af5d5ca2d3f8b6bfb670ca0","d_is_available":"1","driver_id":"59"}\nresponse_data : null\ntimestamp : 2017-09-30 15:41:05
+--------------------------END--------------------------------------------
+--------------------------2017-09-30 19:44:07-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"124"}\nresponse_data : null\ntimestamp : 2017-09-30 19:44:07
+--------------------------END--------------------------------------------
+--------------------------2017-09-30 19:45:11-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"1d7fcb276115dc01172774a0a996a455","d_is_available":"1","driver_id":"124"}\nresponse_data : null\ntimestamp : 2017-09-30 19:45:11
+--------------------------END--------------------------------------------

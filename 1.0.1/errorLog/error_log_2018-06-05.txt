@@ -1,0 +1,7 @@
+
+--------------------------2018-06-05 13:30:46-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"123456fB","u_email":"abdul.hakim17@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-05 13:30:46
+--------------------------END--------------------------------------------
+--------------------------2018-06-05 13:31:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_password":"123456fB","u_email":"abdul.hakim17@gmail.com"}\nresponse_data : null\ntimestamp : 2018-06-05 13:31:20
+--------------------------END--------------------------------------------

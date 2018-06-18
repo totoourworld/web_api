@@ -1,0 +1,16 @@
+
+--------------------------2017-08-07 08:14:42-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"e9d1ab7f0ca841ec0fafc589a09b6573","d_device_token":"28bdf3dab6d1eba58df3e19c49b6d86099f3aa655a430a2bb3f907f56804c29f","d_device_type":"ios","d_email":"jazzman07g@aol.com","d_fname":"Bryant ","d_lname":"Berotte ","d_password":"wisdom67","d_phone":"9037472649"}\nresponse_data : null\ntimestamp : 2017-08-07 08:14:42
+--------------------------END--------------------------------------------
+--------------------------2017-08-07 08:14:46-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"e9d1ab7f0ca841ec0fafc589a09b6573","d_device_token":"28bdf3dab6d1eba58df3e19c49b6d86099f3aa655a430a2bb3f907f56804c29f","d_device_type":"ios","d_email":"jazzman07g@aol.com","d_fname":"Bryant ","d_lname":"Berotte ","d_password":"wisdom67","d_phone":"9037472649"}\nresponse_data : null\ntimestamp : 2017-08-07 08:14:46
+--------------------------END--------------------------------------------
+--------------------------2017-08-07 08:14:58-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"e9d1ab7f0ca841ec0fafc589a09b6573","d_device_token":"28bdf3dab6d1eba58df3e19c49b6d86099f3aa655a430a2bb3f907f56804c29f","d_device_type":"ios","d_email":"jazzman07g@aol.com","d_fname":"Bryant ","d_lname":"Berotte ","d_password":"wisdom67","d_phone":"9037472649"}\nresponse_data : null\ntimestamp : 2017-08-07 08:14:58
+--------------------------END--------------------------------------------
+--------------------------2017-08-07 08:21:29-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"e9d1ab7f0ca841ec0fafc589a09b6573","d_device_token":"28bdf3dab6d1eba58df3e19c49b6d86099f3aa655a430a2bb3f907f56804c29f","d_device_type":"ios","d_email":"jazzman07g@aol.com","d_fname":"Bryant ","d_lname":"Berotte ","d_password":"wisdom67","d_phone":"9037472649"}\nresponse_data : null\ntimestamp : 2017-08-07 08:21:29
+--------------------------END--------------------------------------------
+--------------------------2017-08-07 17:32:55-------------------------------
+400-Invalid FB ID OR FB ID not found.\nuser_id : \napi_name : userapi/fblogin\nclass_name : UserAPI\naction_name : postFBLogin\nrequested_data : {"u_fbid":"10155091119188439"}\nresponse_data : null\ntimestamp : 2017-08-07 17:32:55
+--------------------------END--------------------------------------------

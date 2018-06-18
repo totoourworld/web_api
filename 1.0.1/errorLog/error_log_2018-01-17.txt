@@ -1,0 +1,37 @@
+
+--------------------------2018-01-17 15:56:21-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 15:56:21
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 15:56:37-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 15:56:37
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 15:56:46-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 15:56:46
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 15:57:38-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 15:57:38
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 16:14:36-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#322","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 16:14:36
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 16:14:47-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#322","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 16:14:47
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 16:16:04-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 16:16:04
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 16:16:06-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 16:16:06
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 16:16:08-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"Brunel","u_lname":"Dog","u_password":"Skoop#321","u_phone":"2673572801"}\nresponse_data : null\ntimestamp : 2018-01-17 16:16:08
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 17:14:31-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"80b155039c10550b701a2f10a745fb2a","d_is_available":"1","driver_id":"19"}\nresponse_data : null\ntimestamp : 2018-01-17 17:14:31
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 17:20:47-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"David","u_lname":"Baeur ","u_password":"Skoop#321","u_phone":"2673542800"}\nresponse_data : null\ntimestamp : 2018-01-17 17:20:47
+--------------------------END--------------------------------------------
+--------------------------2018-01-17 17:20:52-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_email":"bruneyl@yahoo.fr","u_fname":"David","u_lname":"Baeur ","u_password":"Skoop#321","u_phone":"2673542800"}\nresponse_data : null\ntimestamp : 2018-01-17 17:20:52
+--------------------------END--------------------------------------------

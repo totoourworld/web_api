@@ -1,0 +1,13 @@
+
+--------------------------2018-04-27 17:20:08-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-04-27 17:20:08
+--------------------------END--------------------------------------------
+--------------------------2018-04-27 17:20:10-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-04-27 17:20:10
+--------------------------END--------------------------------------------
+--------------------------2018-04-27 17:20:37-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"cv"}\nresponse_data : null\ntimestamp : 2018-04-27 17:20:37
+--------------------------END--------------------------------------------
+--------------------------2018-04-27 17:20:41-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"cv"}\nresponse_data : null\ntimestamp : 2018-04-27 17:20:41
+--------------------------END--------------------------------------------

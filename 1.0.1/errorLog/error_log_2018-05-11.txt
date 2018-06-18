@@ -1,0 +1,25 @@
+
+--------------------------2018-05-11 02:20:32-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-05-11 02:20:32
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:21:02-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"12344"}\nresponse_data : null\ntimestamp : 2018-05-11 02:21:02
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:21:31-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"  "}\nresponse_data : null\ntimestamp : 2018-05-11 02:21:31
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:21:45-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"  "}\nresponse_data : null\ntimestamp : 2018-05-11 02:21:45
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:21:48-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"  "}\nresponse_data : null\ntimestamp : 2018-05-11 02:21:48
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:22:04-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":"  sunil"}\nresponse_data : null\ntimestamp : 2018-05-11 02:22:04
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:26:07-------------------------------
+400-please enter your email\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"f-QTFrNdA7Q:APA91bG00h8hmzFhxq4FsQwXOF21TS9zfxjaEZyhLrukmFB_gsVI24Nbv4OldoK1fpCYADtkC9iKSdx7JoG-jL_trJqufQ0sS6jHLVERrFMMCtj8scK1Ok2g_WcZdRFUgGNw9ITE1sH7","u_device_type":"Android","u_fname":"surjeet","u_phone":"8570957375","u_email":"","u_password":"$$$$&&&&"}\nresponse_data : null\ntimestamp : 2018-05-11 02:26:07
+--------------------------END--------------------------------------------
+--------------------------2018-05-11 02:42:41-------------------------------
+400-Invalid Email Id.\nuser_id : \napi_name : userapi/forgetpassword\nclass_name : UserAPI\naction_name : postForgetPassword\nrequested_data : {"u_email":""}\nresponse_data : null\ntimestamp : 2018-05-11 02:42:41
+--------------------------END--------------------------------------------

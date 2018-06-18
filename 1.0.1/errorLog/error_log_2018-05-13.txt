@@ -1,0 +1,13 @@
+
+--------------------------2018-05-13 19:04:52-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"cspointrips@gmail.com","u_password":"ok7158yt"}\nresponse_data : null\ntimestamp : 2018-05-13 19:04:52
+--------------------------END--------------------------------------------
+--------------------------2018-05-13 19:59:21-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"d_lname":"Ndoh","d_device_type":"Android","d_email":"ndohndo@gmail.com","d_phone":"07450779365","d_device_token":"fjLBfXw2ZgA:APA91bFJn0_T_Tkx_HRkNMEO56eRDNeFyAcHIKsmqZOw8covI-_BXVDvJWZ1T9llfZ7MA2HyfI-9NNIOR82tsQP2gvHBY9NSpNylEIK_PXMTo5QO0g7QgT-fpPIWna8-hI7LslzYQBOC","d_fname":"Ndoh","d_password":"fintan12"}\nresponse_data : null\ntimestamp : 2018-05-13 19:59:21
+--------------------------END--------------------------------------------
+--------------------------2018-05-13 23:08:40-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-05-13 23:08:40
+--------------------------END--------------------------------------------
+--------------------------2018-05-13 23:09:09-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_device_token":"fCk6MmCGfrw:APA91bEr0_7Qu_q-KrcbnKcHHaB63ripk87kABNKmMB49E-uIJXYkG2GTRDg9lQ8q4ilNO4XEv5fA5xA2cBpnOl4mYLvmJ3HHFXNeopmextvP6Zp5Axy-troj_1srp-i22VpYyMg-yTX","u_device_type":"Android","u_fname":"Talita","u_phone":"0790653766","u_email":"talita@platinumads.co.za","u_password":"Kirst1709"}\nresponse_data : null\ntimestamp : 2018-05-13 23:09:09
+--------------------------END--------------------------------------------

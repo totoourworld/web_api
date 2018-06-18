@@ -1,0 +1,55 @@
+
+--------------------------2018-05-19 04:41:49-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"poyewole@six38ppn.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 04:41:49
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 04:42:25-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewolr@gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 04:42:25
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 04:43:22-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewolr@gmail.com","u_password":"Jesus@7.1963.jehovah"}\nresponse_data : null\ntimestamp : 2018-05-19 04:43:22
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:02:22-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 08:02:22
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:02:47-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 08:02:47
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:03:08-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jehovah@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 08:03:08
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:03:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jehovah@7.1963"}\nresponse_data : null\ntimestamp : 2018-05-19 08:03:45
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:04:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1964"}\nresponse_data : null\ntimestamp : 2018-05-19 08:04:05
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:04:45-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1967"}\nresponse_data : null\ntimestamp : 2018-05-19 08:04:45
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:06:32-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963.Jehovah"}\nresponse_data : null\ntimestamp : 2018-05-19 08:06:32
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:06:40-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@7.1963.Jehovah"}\nresponse_data : null\ntimestamp : 2018-05-19 08:06:40
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:08:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"odf99GMN"}\nresponse_data : null\ntimestamp : 2018-05-19 08:08:34
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:09:20-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"1963Jesus@7"}\nresponse_data : null\ntimestamp : 2018-05-19 08:09:20
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:11:00-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"aed775181ffd008e31356ee1a8fa2082","d_device_token":"a6cd24224443555d5c5d6f21d3a9fd58317a9e1f09b39c499f27ee4d25cd41c5","d_device_type":"ios","d_email":"pastoroyewole@gmail.com","d_fname":"Joseph","d_lname":"Oyewole ","d_password":"Jesus@7.1963","d_phone":"0710524171"}\nresponse_data : null\ntimestamp : 2018-05-19 08:11:00
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 08:11:24-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : driverapi/registration\nclass_name : DriverAPI\naction_name : postRegistration\nrequested_data : {"api_key":"aed775181ffd008e31356ee1a8fa2082","d_device_token":"a6cd24224443555d5c5d6f21d3a9fd58317a9e1f09b39c499f27ee4d25cd41c5","d_device_type":"ios","d_email":"pastoroyewole@gmail.com","d_fname":"Joseph","d_lname":"Oyewole ","d_password":"Jesus@7.1963","d_phone":"0710524171"}\nresponse_data : null\ntimestamp : 2018-05-19 08:11:24
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 09:44:05-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"pastoroyewole@gmail.com","u_password":"Jesus@71963"}\nresponse_data : null\ntimestamp : 2018-05-19 09:44:05
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 18:36:22-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-05-19 18:36:22
+--------------------------END--------------------------------------------
+--------------------------2018-05-19 22:43:28-------------------------------
+400-Too late! That email is being used\nuser_id : \napi_name : userapi/registration\nclass_name : UserAPI\naction_name : postRegistration\nrequested_data : {"u_fname":"15666666666","u_phone":"15666666666","u_email":"15666666666","u_password":"80996240"}\nresponse_data : null\ntimestamp : 2018-05-19 22:43:28
+--------------------------END--------------------------------------------

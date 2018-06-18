@@ -1,0 +1,43 @@
+
+--------------------------2017-08-04 04:51:03-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"5a51973d958fffd714f68518c3e7b139"}\nresponse_data : null\ntimestamp : 2017-08-04 04:51:03
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 04:58:34-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider3@gmail.com","u_password":"testtedt"}\nresponse_data : null\ntimestamp : 2017-08-04 04:58:34
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 05:31:54-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"37c9b303931f21821433db517b380ca7","d_is_available":"1","d_lat":"28.535400390625","d_lng":"77.26390075683594","driver_id":"2"}\nresponse_data : null\ntimestamp : 2017-08-04 05:31:54
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:01:49-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","d_lat":"28.53560256958008","d_lng":"77.25959014892578","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:01:49
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:06:31-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:06:31
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:06:34-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","d_lat":"28.53558921813965","d_lng":"77.25960540771484","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:06:34
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:09:56-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","d_lat":"28.53559684753418","d_lng":"77.25959014892578","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:09:56
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:11:45-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:11:45
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 06:59:51-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","d_lat":"28.53558921813965","d_lng":"77.25960540771484","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 06:59:51
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 08:15:11-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : []\nresponse_data : null\ntimestamp : 2017-08-04 08:15:11
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 11:31:15-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"2bf956eba666e0d769d3e04f087170f6","d_is_available":"1","d_lat":"28.54540061950684","d_lng":"77.26390075683594","driver_id":"7"}\nresponse_data : null\ntimestamp : 2017-08-04 11:31:15
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 15:04:07-------------------------------
+401-\nuser_id : \napi_name : userapi/getusers\nclass_name : UserAPI\naction_name : \nrequested_data : {"api_key":"1d141f73e63a8b298d9e49362cd9f871"}\nresponse_data : null\ntimestamp : 2017-08-04 15:04:07
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 15:31:00-------------------------------
+401-\nuser_id : \napi_name : driverapi/getdrivers\nclass_name : DriverAPI\naction_name : \nrequested_data : {"api_key":"c863452d5a79a8f7817b943b6f939c66"}\nresponse_data : null\ntimestamp : 2017-08-04 15:31:00
+--------------------------END--------------------------------------------
+--------------------------2017-08-04 15:31:25-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"mmsazmi786@gmail.com","u_password":"mirza"}\nresponse_data : null\ntimestamp : 2017-08-04 15:31:25
+--------------------------END--------------------------------------------

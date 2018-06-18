@@ -1,0 +1,13 @@
+
+--------------------------2017-10-30 05:18:55-------------------------------
+400-Driver is not found\nuser_id : \napi_name : driverapi/login\nclass_name : DriverAPI\naction_name : postLogin\nrequested_data : {"d_email":"rider1@gmail.com","d_password":"testtest"}\nresponse_data : null\ntimestamp : 2017-10-30 05:18:55
+--------------------------END--------------------------------------------
+--------------------------2017-10-30 05:21:48-------------------------------
+400-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : postUpdateDriverProfile\nrequested_data : {"api_key":"466a0a178a8c02f0f39c94d6976ab486","d_is_available":"1","driver_id":"5"}\nresponse_data : null\ntimestamp : 2017-10-30 05:21:48
+--------------------------END--------------------------------------------
+--------------------------2017-10-30 05:25:10-------------------------------
+401-\nuser_id : \napi_name : driverapi/updatedriverprofile\nclass_name : DriverAPI\naction_name : \nrequested_data : {"d_is_available":"0","driver_id":"5"}\nresponse_data : null\ntimestamp : 2017-10-30 05:25:10
+--------------------------END--------------------------------------------
+--------------------------2017-10-30 06:32:14-------------------------------
+400-User not found\nuser_id : \napi_name : userapi/login\nclass_name : UserAPI\naction_name : postLogin\nrequested_data : {"u_email":"rider1@gmail.com","u_password":"testtedt"}\nresponse_data : null\ntimestamp : 2017-10-30 06:32:14
+--------------------------END--------------------------------------------
